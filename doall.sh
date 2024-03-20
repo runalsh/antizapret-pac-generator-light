@@ -6,6 +6,9 @@ LANG=C.UTF-8
 HERE="$(dirname "$(readlink -f "${0}")")"
 cd "$HERE"
 
+# clean 
+rm -rf ./result/proxy-host-*.pac
+
 ./requirements.sh
 ./parseitdog.sh # https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-dnsmasq-ipset.lst
 ./update.sh
