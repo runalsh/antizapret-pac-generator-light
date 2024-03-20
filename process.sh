@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+set -x
 
 #cp result/dnsmasq-aliases-alt.conf /etc/dnsmasq.d/aliases-alt.conf
 #service dnsmasq restart
