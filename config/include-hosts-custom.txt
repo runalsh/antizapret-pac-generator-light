@@ -90,7 +90,6 @@ dublikat.
 dumskaya.net
 bullshit.agency
 upload.ee
-!wizzair.com
 wwh-club.
 navigator.pw
 skladchik.com
@@ -125,7 +124,6 @@ facebook.com
 itarmy.to
 udemy.com
 terraform.io
-aeroflot.ru
 hashicorp.com
 saverudata.net
 acloud.guru
@@ -206,7 +204,7 @@ golosinfo.org
 roscenzura.com
 gitguardian.com
 president.gov.ua
-archive.ph
+archive
 archive.today
 webagesolutions.com
 jsdelivr.net
