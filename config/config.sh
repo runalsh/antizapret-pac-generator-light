@@ -14,4 +14,4 @@ PACFILE="result/proxy-host-ssl.pac"
 PACFILE_NOSSL="result/proxy-host-nossl.pac"
 
 # Perform DNS resolving to detect and filter non-existent domains
-RESOLVE_NXDOMAIN="yes"
+RESOLVE_NXDOMAIN="no"
