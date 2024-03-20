@@ -8,6 +8,8 @@ Changes/improvements:
 
     - antifilter CE list (https://community.antifilter.download/)
 
+    - openai list (https://github.com/antonme/ipnames/blob/master/dns-openai.txt)
+
     - github action with for PAC update (daily at 01:00)
 
     - proxys changed to 127.0.0.1:6666 - local shadowsocks

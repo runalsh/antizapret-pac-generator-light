@@ -12,6 +12,7 @@ rm -rf ./result/proxy-host-*.pac
 ./requirements.sh
 ./parseitdog.sh # https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-dnsmasq-ipset.lst
 ./antifilter-ce.sh # https://community.antifilter.download/list/domains.lst
+./openai.sh # https://raw.githubusercontent.com/antonme/ipnames/master/dns-openai.txt
 ./update.sh
 ./parse.sh
 ./process.sh
