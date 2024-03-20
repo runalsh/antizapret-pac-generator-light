@@ -11,6 +11,6 @@ cat itdog-1-`date '+%d-%B-%Y'`.lst >> ./config/include-hosts-custom.txt
 cat itdog-2-`date '+%d-%B-%Y'`.lst >> ./config/include-hosts-custom.txt
 cat itdog-3-`date '+%d-%B-%Y'`.lst >> ./config/include-hosts-custom.txt
 awk '! a[$0]++' ./config/include-hosts-custom.txt
-sort -o ./config/include-hosts-custom.txt ./config/include-hosts-custom.txt
+# sort -o ./config/include-hosts-custom.txt ./config/include-hosts-custom.txt
 sed -i '/^$/d' ./config/include-hosts-custom.txt
 
