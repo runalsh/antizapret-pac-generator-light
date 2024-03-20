@@ -14,7 +14,7 @@ on:
 permissions:
   contents: write
 
-  jobs:
+jobs:
   generate:
     runs-on: ubuntu-22.04
     steps:
