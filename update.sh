@@ -1,6 +1,5 @@
 #!/bin/bash
 set -e
-set -x
 
 HERE="$(dirname "$(readlink -f "${0}")")"
 cd "$HERE"
