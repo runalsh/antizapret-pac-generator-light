@@ -1,11 +1,7 @@
 #!/bin/bash
 
 set -e
-<<<<<<< HEAD
 
-=======
-set -x
->>>>>>> 83ddaabdfbc3434aeeca361516438b60978aa0c1
 LANG=C.UTF-8
 HERE="$(dirname "$(readlink -f "${0}")")"
 cd "$HERE"
