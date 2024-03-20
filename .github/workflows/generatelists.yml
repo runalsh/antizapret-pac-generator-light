@@ -1,4 +1,4 @@
-name: generate
+name: Generate PAC
 
 on:
   workflow_dispatch:
