@@ -86,7 +86,7 @@ ownedcore.com
 darkmoney
 hdrezka-ag.com
 darkos.me
-dublikat.
+dublikat
 dumskaya.net
 bullshit.agency
 upload.ee
@@ -160,7 +160,6 @@ steamstatic.com
 katfile.com
 coreelec.org
 tjournal.ru
-openwrt.org
 tailscale.com
 gofile.io
 usersdrive.com
