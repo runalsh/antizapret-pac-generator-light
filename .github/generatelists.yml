@@ -1,0 +1,29 @@
+name: generate
+
+on:
+  workflow_dispatch:
+  # push:
+  #   branches: [ "main" ]
+  #   paths:
+  #     - .github/**
+  #     - src/**
+  #     - '*.py'
+  schedule:
+    - cron: '0 1 */3 * *'
+
+permissions:
+  contents: write
+
+  jobs:
+  generate:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - name: Push lists
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: './result/proxy-host-*.pac'
+          author_name: GitHub Action
+          author_email: githubaction@githubaction.com
+          message: 'Update lists'
+          push: true

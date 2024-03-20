@@ -13,3 +13,6 @@ cd "$HERE"
 ./process.sh
 
 ./generate-pac.sh
+
+# clean 
+rm -rf itdog-*.lst
