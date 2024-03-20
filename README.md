@@ -2,9 +2,13 @@ with some fixes and adds for selfusing
 
 Changes/improvements:
     - requirements install
+
     - itdoginfo lists ( https://github.com/itdoginfo/allow-domains)
+
     - github action with for PAC update (daily at 01:00)
+
     - proxys changed to 127.0.0.1:6666 - local shadowsocks
+    
     - small improvenets
 
 crontab -e
