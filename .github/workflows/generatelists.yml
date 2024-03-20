@@ -2,12 +2,11 @@ name: Generate PAC
 
 on:
   workflow_dispatch:
-  # push:
-  #   branches: [ "main" ]
-  #   paths:
-  #     - .github/**
-  #     - src/**
-  #     - '*.py'
+  push:
+    branches: [ "main" ]
+    paths-ignore:
+      - '*.md'
+      - '.github/workflows/**'
   schedule:
     - cron: '0 1 */3 * *'
 
