@@ -23,11 +23,15 @@ jobs:
       - name: update
         run: ./doall.sh
 
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
       - name: Push lists
         uses: EndBug/add-and-commit@v9
         with:
           add: './result/proxy-host-*.pac'
           author_name: GitHub Action
           author_email: githubaction@githubaction.com
-          message: 'Update PAC files $(date '+%d-%B-%Y')'
+          message: 'Update PAC files ${{ steps.date.outputs.date }}'
           push: true
