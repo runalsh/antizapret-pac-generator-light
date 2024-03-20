@@ -19,6 +19,10 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
+
+      - name: update
+        run: ./doall.sh
+        
       - name: Push lists
         uses: EndBug/add-and-commit@v9
         with:
