@@ -4,7 +4,9 @@ Changes/improvements:
 
     - requirements install
 
-    - itdoginfo lists ( https://github.com/itdoginfo/allow-domains)
+    - itdoginfo lists (https://github.com/itdoginfo/allow-domains)
+
+    - antifilter CE list (https://community.antifilter.download/)
 
     - github action with for PAC update (daily at 01:00)
 
