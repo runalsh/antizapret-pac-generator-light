@@ -8,3 +8,5 @@ cd "$HERE"
 ./update.sh
 ./parse.sh
 ./process.sh
+
+./generate-pac.sh
