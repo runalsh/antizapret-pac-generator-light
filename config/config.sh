@@ -1,16 +1,17 @@
 #!/bin/bash
 
 # HTTPS (TLS) proxy address
-PACHTTPSHOST='proxy-ssl.antizapret.prostovpn.org:3143'
+PACHTTPSHOST='127.0.0.1:6666'
 
 # Regular proxy address
-PACPROXYHOST='proxy-nossl.antizapret.prostovpn.org:29976'
+PACPROXYHOST='127.0.0.1:6666'
 
 # Facebook and Twitter proxy address
-PACFBTWHOST='proxy-fbtw-ssl.antizapret.prostovpn.org:3143'
+PACFBTWHOST='127.0.0.1:6666'
+
 
 PACFILE="result/proxy-host-ssl.pac"
 PACFILE_NOSSL="result/proxy-host-nossl.pac"
 
 # Perform DNS resolving to detect and filter non-existent domains
-RESOLVE_NXDOMAIN="no"
+RESOLVE_NXDOMAIN="yes"
