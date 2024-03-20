@@ -1,4 +1,4 @@
-** Antizapret PAC Generator from ValdikSS with some fixes and adds for selfusing **
+Antizapret PAC Generator from ValdikSS with some fixes and adds for selfusing
 
 Changes/improvements:
 
@@ -10,7 +10,7 @@ Changes/improvements:
 
     - proxys changed to 127.0.0.1:6666 - local shadowsocks
 
-    - small improvenets
+    - small improvements
 
 crontab -e
 
