@@ -15,3 +15,7 @@ PACFILE_NOSSL="result/proxy-host-nossl.pac"
 
 # Perform DNS resolving to detect and filter non-existent domains
 RESOLVE_NXDOMAIN="no"
+
+PACONIONPROXYHOST='127.0.0.1:9050'
+
+PACPI2PROXYHOST='127.0.0.1:4444'

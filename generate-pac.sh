@@ -50,6 +50,10 @@ function FindProxyForURL(url, host) {" >> "$PACFILE"
 
 echo "  if (domains.length < 10) return \"DIRECT\"; // list is broken
 
+  if (dnsDomainIs(host, ".i2p")) { return "HTTP ${PACONIONPROXYHOST}"; }
+
+  if (dnsDomainIs(host, ".onion")) { return "SOCKS ${PACPI2PROXYHOST}"; }
+
   if (!('indexOf' in Array.prototype)) {
     Array.prototype.indexOf= function(find, i /*opt*/) {
       if (i===undefined) i= 0;
