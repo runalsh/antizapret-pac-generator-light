@@ -24,3 +24,11 @@ sed -i "/mega/d" temp/list.csv
 sed -i "/tion/d" temp/list.csv
 sed -i "/prav/d" temp/list.csv
 sed -i "/inup/d" temp/list.csv
+sed -i "/spin/d" temp/list.csv
+sed -i "/obet/d" temp/list.csv
+sed -i "/ital/d" temp/list.csv
+sed -i "/star/d" temp/list.csv
+sed -i "/gold/d" temp/list.csv
+sed -i "/seed/d" temp/list.csv
+sed -i "/plom/d" temp/list.csv
+sed -i "/utor/d" temp/list.csv
