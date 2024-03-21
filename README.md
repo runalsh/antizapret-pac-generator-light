@@ -1,4 +1,6 @@
-# Antizapret PAC Generator from ValdikSS with some fixes and adds for selfusing #
+# Antizapret PAC Generator from ValdikSS #
+
+##with some fixes and adds for selfusing ##
 
 Changes/improvements:
 
