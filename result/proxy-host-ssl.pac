@@ -1,5 +1,5 @@
 // ProstoVPN.AntiZapret PAC-host File
-// Generated on Thu Mar 21 00:26:36 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
+// Generated on Thu Mar 21 07:20:58 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
 // THIS FILE IS NEITHER OBFUSCATED NOR ENCRYPTED, IT'S COMPRESSED TO COMPLY WITH BROWSER PAC FILE SIZE LIMITS.
 //
 // NOTE 1: Proxy.pac file content varies on User-Agent HTTP header.
@@ -4755,6 +4755,10 @@ function patternreplace(s) {
 
 function FindProxyForURL(url, host) {
   if (domains.length < 10) return "DIRECT"; // list is broken
+
+  if (dnsDomainIs(host, .i2p)) { return HTTP 127.0.0.1:9050; }
+
+  if (dnsDomainIs(host, .onion)) { return SOCKS 127.0.0.1:4444; }
 
   if (!('indexOf' in Array.prototype)) {
     Array.prototype.indexOf= function(find, i /*opt*/) {
