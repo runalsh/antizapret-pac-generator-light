@@ -12,6 +12,8 @@ Changes/improvements:
 
     - github action with for PAC update (daily at 01:00)
 
+    - TOR and I2P integration (change servers in /config/config.sh)
+
     - proxys changed to 127.0.0.1:6666 - local shadowsocks
 
     - small improvements
