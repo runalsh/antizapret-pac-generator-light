@@ -30,5 +30,9 @@ Resulting PAC files is
 
     - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl.pac
 
+Notes
 
-original https://bitbucket.org/anticensority/antizapret-pac-generator-light
+    - may be this too https://github.com/svintuss/unblock/blob/main/unblock.txt
+
+
+Original https://bitbucket.org/anticensority/antizapret-pac-generator-light

@@ -211,3 +211,11 @@ librus.ec
 khtulhu.org.ua
 openai.com
 chatgpt.com
+bard.google.com
+gemini.google.com
+ai.com
+claude.ai
+chatgpt.com
+anthropic.com
+bing.com
+bingapis.com
