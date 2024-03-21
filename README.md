@@ -14,7 +14,7 @@ Changes/improvements:
 
     - TOR and I2P integration (change servers in /config/config.sh)
 
-    - proxys changed to 127.0.0.1:6666 - local shadowsocks
+    - proxys changed to 127.0.0.1:6666 - local shadowsocks (change in /config/config.sh)
 
     - small improvements
 
