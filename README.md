@@ -20,6 +20,8 @@ Changes/improvements:
 
     - small improvements
 
+Bug (fck windows): new scripts doesnt have exec bit, git add --chmod=+x -- *.sh *.py or git add --chmod=+x -- *.*
+
 crontab -e
 
     - 0 1 */3 * * /root/antizapret-pac-generator-light/doall.sh && cp /root/antizapret-pac-generator-light/result/proxy-host-ssl.pac /var/www/pac
