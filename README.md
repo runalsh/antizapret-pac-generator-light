@@ -2,6 +2,12 @@
 
 ## with some fixes and adds for selfusing ##
 
+Resulting PAC files is
+
+    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl.pac
+
+    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl.pac
+
 Changes/improvements:
 
     - requirements install
@@ -29,12 +35,6 @@ crontab -e
 lighttpd server
 
     - lighttpd.conf to /etc/lighttpd/lighttpd.conf
-
-Resulting PAC files is
-
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl.pac
-
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl.pac
 
 Notes
 
