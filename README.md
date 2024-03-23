@@ -18,6 +18,8 @@ Changes/improvements:
 
     - openai list (https://github.com/antonme/ipnames/blob/master/dns-openai.txt)
 
+    - svintuss  (https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt)
+
     - github action with for PAC update (daily at 01:00)
 
     - TOR and I2P integration (change servers in /config/config.sh)
