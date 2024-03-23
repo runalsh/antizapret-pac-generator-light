@@ -1,3 +1,6 @@
+sed -i '/[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}/d' svintuss-`date '+%d-%B-%Y'`.lst
+sed -i '/[0-9]\{1,4\}\:[0-9]\{1,4\}\:[0-9]\{1,4\}\:[0-9]\{1,4\}/d' svintuss-`date '+%d-%B-%Y'`.lst
+
 awk '! a[$0]++' ./config/include-hosts-custom.txt
 # sort -o ./config/include-hosts-custom.txt ./config/include-hosts-custom.txt
 sed -i '/^$/d' ./config/include-hosts-custom.txt
