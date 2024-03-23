@@ -40,7 +40,7 @@ lighttpd server
 
 Notes
 
-    - may be this too https://github.com/svintuss/unblock/blob/main/unblock.txt
+
 
 
 Original https://bitbucket.org/anticensority/antizapret-pac-generator-light
