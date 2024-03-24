@@ -3,14 +3,10 @@ yogadns.com
 tailscale.com
 dl.tailscale.com
 pkgs.tailscale.com
-.tailscale.com
 hashicorp.com
 vagrantcloud.com
-.vagrantup.com
 vagrantup.com
-.hashicorp.com
 registry.terraform.io
-.terraform.io
 terraform.io
 releases.hashicorp.com
 ntc.party
@@ -90,7 +86,7 @@ dublikat
 dumskaya.net
 bullshit.agency
 upload.ee
-wwh-club.
+wwh-club
 navigator.pw
 skladchik.com
 arhivach.net
