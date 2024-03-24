@@ -210,6 +210,7 @@ bard.google.com
 gemini.google.com
 ai.com
 claude.ai
+rutracker.cc
 chatgpt.com
 anthropic.com
 bing.com
