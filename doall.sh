@@ -21,4 +21,11 @@ rm -rf ./result/proxy-host-*.pac
 
 ./generate-pac.sh
 
+source config/config.sh
+
+if [[ "$EXCLUDE_PAC" == "yes" ]];
+then
+    ./exclude.sh
+fi
+
 rm -rf temp/*
