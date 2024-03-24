@@ -3,7 +3,7 @@ name: Generate PAC
 on:
   workflow_dispatch:
   push:
-    branches: [ "excludetest" ]
+    branches: [ "main" ]
     paths-ignore:
       - '*.md'
       - '.github/workflows/**'
@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: update
         run: ./doall.sh
