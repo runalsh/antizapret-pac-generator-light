@@ -3,7 +3,7 @@ name: Generate PAC
 on:
   workflow_dispatch:
   push:
-    branches: [ "main" ]
+    branches: [ "excludetest" ]
     paths-ignore:
       - '*.md'
       - '.github/workflows/**'
