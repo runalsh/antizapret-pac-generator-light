@@ -16,11 +16,11 @@ rm -rf ./temp/*
 ./openai.sh # https://raw.githubusercontent.com/antonme/ipnames/master/dns-openai.txt
 ./svintuss.sh # https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt
 ./preparelst.sh
-./update.sh
-./parse.sh
-./process.sh
+# ./update.sh
+# ./parse.sh
+# ./process.sh
 
-./generate-pac.sh
+# ./generate-pac.sh
 
 echo "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
 
@@ -29,12 +29,13 @@ source config/config.sh
 if [[ "$EXCLUDE_PATTERN_PAC" == "yes" ]];
 then
     rm -rf ./temp/{exclude-hosts.txt,include-ips.txt,hostlist_original_with_include.txt,include-hosts.txt,include-ips.txt,pacpatterns.js,replace-common-sequences.awk}
+    ./update.sh
     ./excludepattern.sh
     ./parse.sh
     ./process.sh
     cp generate-pac.sh generate-pac-pattern.sh
     sed -i 's/PACFILE/PACFILE_PATTERN/' generate-pac-pattern.sh
-    ./generate-pac-pattern.sh
+    ./generate-pac.sh
     echo "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
 fi
 
