@@ -19,3 +19,7 @@ RESOLVE_NXDOMAIN="no"
 PACONIONPROXYHOST='127.0.0.1:9050' #socks proxy for tor
 
 PACI2PROXYHOST='127.0.0.1:4444' #http proxy for i2p
+
+EXCLUDE_PATTERN_PAC="yes"
+PACFILE_PATTERN="result/proxy-host-ssl-pattern.pac"
+PACFILE_PATTERN_NOSSL="result/proxy-host-nossl-pattern.pac"
