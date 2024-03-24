@@ -34,7 +34,7 @@ then
     ./parse.sh
     ./process.sh
     cp generate-pac.sh generate-pac-pattern.sh
-    sed -i 's/\$PACFILE/\$PACFILEPATTERN/' generate-pac-pattern.sh
+    sed -i 's/\PACFILE/\PATTERN_PACFILE/' generate-pac-pattern.sh
     ./generate-pac-pattern.sh
     echo "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
 fi

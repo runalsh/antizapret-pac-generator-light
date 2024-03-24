@@ -21,5 +21,5 @@ PACONIONPROXYHOST='127.0.0.1:9050' #socks proxy for tor
 PACI2PROXYHOST='127.0.0.1:4444' #http proxy for i2p
 
 EXCLUDE_PATTERN_PAC="yes"
-PACFILEPATTERN="result/proxy-host-ssl-pattern.pac"
-PACFILEPATTERN_NOSSL="result/proxy-host-nossl-pattern.pac"
+PATTERN_PACFILE="result/proxy-host-ssl-pattern.pac"
+PATTERN_PACFILE_NOSSL="result/proxy-host-nossl-pattern.pac"
