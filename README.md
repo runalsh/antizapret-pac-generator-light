@@ -26,7 +26,7 @@ Changes/improvements:
 
     - proxys changed to 127.0.0.1:6666 - local shadowsocks (change in /config/config.sh)
 
-    - option EXCLUDE_PATTERN_PAC in config/config.sh to enable skipping some often patterns (list - excludepattern.sh) for reduce resulting PAC files
+    - option EXCLUDE_PATTERN_PAC in config/config.sh to enable skipping some frequent patterns (list - excludepattern.sh) for reduce resulting PAC files
 
     - small improvements
 
