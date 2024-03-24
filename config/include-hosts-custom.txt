@@ -1,4 +1,4 @@
- 
+.ua
 yogadns.com
 tailscale.com
 dl.tailscale.com
@@ -16,7 +16,6 @@ stackoverflow.com
 archive.ph
 gitguardian.com
 4pda.to
-.ua
 roscenzura.com
 chat.openai.com
 oaistatic.com
@@ -62,6 +61,7 @@ ordilo.org
 6tor.net
 megatfile.cc
 hdrezka
+rezka
 zfilm-hd.org
 dailymotion.com
 heavy.com
@@ -201,7 +201,6 @@ president.gov.ua
 archive
 archive.today
 webagesolutions.com
-jsdelivr.net
 ntc.party
 librus.ec
 khtulhu.org.ua
