@@ -7,7 +7,7 @@ HERE="$(dirname "$(readlink -f "${0}")")"
 cd "$HERE"
 
 # clean 
-rm -rf ./result/*.pac
+rm -rf ./result/*
 
 ./requirements.sh
 ./parseitdog.sh # https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-dnsmasq-ipset.lst
@@ -25,14 +25,19 @@ source config/config.sh
 
 if [[ "$EXCLUDE_PATTERN_PAC" == "yes" ]];
 then
-    rm -rf temp/{exclude-hosts.txt,include-ips.txt,hostlist_original_with_include.txt,include-hosts.txt,include-ips.txt,pacpatterns.js,replace-common-sequences.awk}
+    rm -rf ./temp/{exclude-hosts.txt,include-ips.txt,hostlist_original_with_include.txt,include-hosts.txt,include-ips.txt,pacpatterns.js,replace-common-sequences.awk}
     ./excludepattern.sh
     ./parse.sh
     ./process.sh
+    echo "QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ"
     cp generate-pac.sh generate-pac-pattern.sh
+    echo "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
     sed -i 's/PACFILE/PACFILE_PATTERN/' generate-pac-pattern.sh
+    echo "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
     ./generate-pac-pattern.sh
+    echo "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
 fi
 
-rm -rf result/*.txt
-rm -rf temp/*
+rm -rf ./result/*.txt
+rm -rf ./result/*.conf
+rm -rf ./temp/*
