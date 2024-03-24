@@ -20,3 +20,5 @@ rm -rf ./result/proxy-host-*.pac
 ./process.sh
 
 ./generate-pac.sh
+
+rm -rf temp/*
