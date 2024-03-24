@@ -36,7 +36,3 @@ then
     sed -i 's/PACFILE_NOSSL/PACFILE_PATTERN_NOSSL/' generate-pac-pattern.sh
     ./generate-pac-pattern.sh
 fi
-
-rm -rf ./result/*.txt
-rm -rf ./result/*.conf
-rm -rf ./temp/*
