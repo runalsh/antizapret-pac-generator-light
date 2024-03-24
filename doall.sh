@@ -16,13 +16,11 @@ rm -rf ./temp/*
 ./openai.sh # https://raw.githubusercontent.com/antonme/ipnames/master/dns-openai.txt
 ./svintuss.sh # https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt
 ./preparelst.sh
-# ./update.sh
-# ./parse.sh
-# ./process.sh
+./update.sh
+./parse.sh
+./process.sh
 
-# ./generate-pac.sh
-
-echo "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
+./generate-pac.sh
 
 source config/config.sh
 
@@ -37,7 +35,6 @@ then
     sed -i 's/PACFILE/PACFILE_PATTERN/' generate-pac-pattern.sh
     sed -i 's/PACFILE_NOSSL/PACFILE_PATTERN_NOSSL/' generate-pac-pattern.sh
     ./generate-pac-pattern.sh
-    echo "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
 fi
 
 rm -rf ./result/*.txt
