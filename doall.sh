@@ -16,11 +16,11 @@ rm -rf ./temp/*
 ./openai.sh # https://raw.githubusercontent.com/antonme/ipnames/master/dns-openai.txt
 ./svintuss.sh # https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt
 ./preparelst.sh
-# ./update.sh
-# ./parse.sh
-# ./process.sh
+./update.sh
+./parse.sh
+./process.sh
 
-# ./generate-pac.sh
+./generate-pac.sh
 
 echo "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
 
