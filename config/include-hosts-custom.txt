@@ -210,8 +210,13 @@ bard.google.com
 gemini.google.com
 ai.com
 claude.ai
-rutracker.cc
 chatgpt.com
 anthropic.com
 bing.com
 bingapis.com
+moscowtimes.ru
+azure.com
+oaistatic.com
+vak-sms.com
+rutracker.cc
+static.rutracker.cc
