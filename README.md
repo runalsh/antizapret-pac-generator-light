@@ -26,6 +26,8 @@ Changes/improvements:
 
     - proxys changed to 127.0.0.1:6666 - local shadowsocks (change in /config/config.sh)
 
+    - option EXCLUDE_PATTERN_PAC in config/config.sh to enable skipping some often patterns (list - excludepattern.sh) for reducing resulting PAC files
+
     - small improvements
 
 Bug (fck windows): new scripts doesnt have exec bit, git add --chmod=+x -- *.sh *.py or git add --chmod=+x -- *. *
