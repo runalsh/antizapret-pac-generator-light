@@ -2,7 +2,7 @@
 
 ## with some fixes and adds for selfusing ##
 
-### Just change config in config/config.sh ad run ./doall.sh 
+### Just change config in config/config.sh and run ./doall.sh 
 
 Resulting PAC files is
 
