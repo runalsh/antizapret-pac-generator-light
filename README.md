@@ -30,7 +30,7 @@ Changes/improvements:
 
     - TOR and I2P integration (change servers in /config/config.sh)
 
-    - proxys changed to 127.0.0.1:6666 - local shadowsocks (change in /config/config.sh)
+    - proxies changed to 127.0.0.1:6666 - local shadowsocks (change in /config/config.sh)
 
     - option EXCLUDE_PATTERN_PAC in config/config.sh to enable skipping some frequent patterns (list - excludepattern.sh) for reduce resulting PAC files
 
