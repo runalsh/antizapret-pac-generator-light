@@ -26,7 +26,7 @@ Changes/improvements:
 
     - svintuss  (https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt)
 
-    - github action with for PAC update (daily at 01:00)
+    - github action for PAC update (daily at 01:00)
 
     - TOR and I2P integration (change servers in /config/config.sh)
 
