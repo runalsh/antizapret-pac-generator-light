@@ -34,3 +34,4 @@ sed -i "/plom/d" temp/list.csv
 sed -i "/utor/d" temp/list.csv
 sed -i "/xn--/d" temp/list.csv
 sed -i "/pin-up/d" temp/list.csv
+sed -i "/casino/d" temp/list.csv
