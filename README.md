@@ -48,7 +48,7 @@ lighttpd server
 
 Notes
 
-
+    - may be add https://github.com/bol-van/rulist resolved ip and domains instead of z-i
 
 
 Original https://bitbucket.org/anticensority/antizapret-pac-generator-light
