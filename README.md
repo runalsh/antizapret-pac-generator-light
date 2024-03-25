@@ -2,6 +2,8 @@
 
 ## with some fixes and adds for selfusing ##
 
+### Just change config in config/config.sh ad run ./doall.sh 
+
 Resulting PAC files is
 
     - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl.pac
