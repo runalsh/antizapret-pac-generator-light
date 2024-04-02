@@ -218,6 +218,8 @@ moscowtimes.ru
 azure.com
 oaistatic.com
 vak-sms.com
+yt3.ggpht.com
+tidal.com
 rutracker.cc
 static.rutracker.cc
 matrix.to
