@@ -1,5 +1,5 @@
 // ProstoVPN.AntiZapret PAC-host File
-// Generated on Thu Apr  4 19:14:11 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
+// Generated on Thu Apr  4 20:21:13 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
 // THIS FILE IS NEITHER OBFUSCATED NOR ENCRYPTED, IT'S COMPRESSED TO COMPLY WITH BROWSER PAC FILE SIZE LIMITS.
 //
 // NOTE 1: Proxy.pac file content varies on User-Agent HTTP header.
@@ -1201,7 +1201,7 @@ domains = {
 },
 "ua":{
  1:"iOf5",
- 2:">%ckrvAfcnvntvd1cvziU,ifvzbAznexzpTxuDkgiokhztbMkpmkkrksuTMcmysdOrsst1BbyeuzaAlbvDlgltplpmnvprte4462",
+ 2:">%ckrvAfcnvnRmtvd1cvziU,ifvzbAznexzpuDTxkgiokhztbMkpmkkrksuTMcmysdOrsst1BbyeuzaAlbvDlgltplpmnvprte4462",
  3:"vpspmgw.AwYoI!GI.[tsnmAdpKmvVhntawahi.idevvbFevantnd+Kj!HgT*l)vubruOvo!Blunvs]mmrs!VjoA048061douvsnmslu24fauaifuncKmHrbcNwUoxounlunnprm!MimFauntdUouafsMeltdutgsud032gu<c!UfKmsboZtv&su057",
  4:"znajlut:vVnaBylV[VsaJ;ma0532gl*s&vneL#.APn.AhoQuflagfIdyfirB0552c/MDpm!UAweb]g!USrMaivIa0342b3!UnewsVu!Uuc.[lk!Uawebnabu0382is!VfGbVkT+?dYikhubsxs!VvJcIdtktQSbCVI!UnexXvTynmoyoa)souR!Unw!Um;!Ukl!Usq!UbabUuniH0542KvnoBrHaC#io0332vgT*tYOoL{!Ukyivt[ayipay0352focXtaxC*1.i+s.Adepo0372kv!U^b.ReS!UKv!U0412lJtasumyiz!UhysC^K!UdozGpl!UfabCex!Ucn!Ux1!U(i.AdIF:dJgi",
  5:">As!U=Hs!Uois.[Iex!Udpk!UnX.Ggt@G.[tbu!Uunn!Uuk(AedIbPs<pG.[ag(!Un}oBimil.Rm!P!UQCn;}AsidC06242S+i!UL>A!UpTM.As}O!UDMe!Uill.AZI.pphrg.A,va!Ucua!Udn.g}t{a.A#u.GgzAR!Uifu!UdMe!U<pG!UvgG[e(Nc!Umv.GgmTbukSbD!UPpi!Unua.AmfA!UmJr.AgazFanPhnFsfy!UukJ.Acdp.AgKwpKlMa!UkhCsIzvz!Uepg!Ub-p!Uua1!UfaktysuB!UMnF!UV)p!UpA-upipLssvv.Ggn)p!UuoG!U!SG.R+nD.ApKBir^qpay~jH!UgKw.AfAHcenbn.Apub^~mXZ.iqha!UApLsscif.Anr2!U{bEgo!Mi.Aktk!Ukr.g}fog.[(cursp?upIRsmT%Smu!U!B!Es&dE!UIclAZsum.ARsmFZtvgidiNf.ACOv!UzezmHw-n!Un<.Ggtrb.Auvp!Uvpl!Uvezhaufg!Uhi.dnBTbikc&mea+yava;Kk!Ufid!Us+G!Urbg!UgGl}~gT*!U<.bizpPp!URdV!Uk-z!UdiDogvMk!Up}A!Uzik!UmI+Hkzib!Uiag!Ugog!UeRteBsv+[asnX.Ank.Ggt@3!U+oi.is#.dn(yI.AmirOIRma.AAk$!U;Oe!Ug%*h@c(fta!S?Agtva.Anrj!UXh@.AplY.AmCk!U&+F!UkEavHAfo!Gexo.Almn.Ajay!Ubo?=@ccloHAf`Ieg&vnafavbFvum.A+T?!UntktvSiP!UbazE?]i.Ggzzz!UYu.Gg4sg!ULmR!UpisnikhEk}gCX!Us!V24sma.RrHg!U^Phkomil.AmEkFCpc.Gg",
@@ -1467,6 +1467,7 @@ domains = {
  9:"wLBlAgwOQcrypt*afewOQwLBlAgLlZtumlab"
 },
 "il":{
+ 1:"R",
  5:"!My.RynF.RnE[.R",
  6:"7kHD.RwAnC.Rzisi.RBrHa.RdFDy.R",
  7:"news<.Rt<Bm$.RfGex.Gg",

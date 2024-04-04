@@ -1,5 +1,5 @@
 // ProstoVPN.AntiZapret PAC-host File
-// Generated on Thu Apr  4 19:15:07 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
+// Generated on Thu Apr  4 20:22:07 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
 // THIS FILE IS NEITHER OBFUSCATED NOR ENCRYPTED, IT'S COMPRESSED TO COMPLY WITH BROWSER PAC FILE SIZE LIMITS.
 //
 // NOTE 1: Proxy.pac file content varies on User-Agent HTTP header.
@@ -944,7 +944,7 @@ domains = {
 },
 "ua":{
  1:"ifL5",
- 2:";t!SckrvAfcnvntvd1cvEbifvzbAznexzpTxkgiokhztuGbMkpmkkrksuTMcl;mysdS^sst1yeuzaAlblgvG[gltplpmnv;lpr;nteLr4462",
+ 2:";t!SckrvAfcnvntvd1cvEbifvzbAznexzpTxkgiokhztuGbMkpmkkrksuTMcl;mysdS^sst1yeuzaAlblgvG[gltcUplpmnv;lpr;nteLr4462",
  3:"vpspmgw.Avs*r$uVtvtsnmAdpKmntawahi.idevevantnubrn?ummrjoAfl}048061H.)b?Sf~EdougT@vsnmslKmCu24fauaifrbcNwSoxoprmdSovWhc!BuafsMeltdl!KuLvmJag,usud032fKm;iCsbowUo057",
  4:"znajb3!BWH!B0532lk!BPn.AfFbW0552QX.Al[skAweb0342vIcHtULot,n~awebQ/!BRrMavWna!S.idobK0382i}!BAs`Bhubsnw!Bf`!BI<ma%c,sBXioeR!Bsq!BdtktORbB*g!BdUikvTynnexYmoyo}%!B)Wsatvg`0542kv!BKvnom<!BivHaKv!BfA!L!EJBt)ayo$.)kyivErCagl@sm=.Aipay0352iz!BtaxBfocYdepo0372m<!Spl!BdIgiEylWm~LHex!Bcn!B0412uc.)x1!BvgT@Wu!Bp$niav$ohysBsumykr!SfHdy;n!BdozFlvivds!SpKE~!SHe@1.i=l.Apm!B",
  5:"uoF!BkhDk#c@mJV?n.Fgcua!BkDavCifu!BdMe!Bn#oEigo)!Sfl}maukI.APpi!BmfA!Bg,.g#khBsHMnJ!Bfog.)k,s!Bc%ftasfy!BgBY!B06242r`D!BpTM.Am=.colMa!Bhrg.Azvz!Bepg!Bb-p!B;iD!Bua1!B&jC!BdHbPs%yH.AmTbukq,C!Bnk.Fgk($!B<Le!BXu.Fg20mA[;so.A^va!Bo;.Fgcdp.Aqha!B!D-HegKwpKdHJsknr2!Bc@mTZcr*eamIr.ARmu!BCk=!BHclAVktk!BgazJafaktyGMe!Bc)W!BdiGoggT@!BgKw.Aw-n!Bnbn.Al?.Fgt(F.)uvp!Buk%AenY.Fgvpl!BrCg!BmYV.icif.Adn.g#ipQssz`o!BzezmCrbg!Buco!Bsum.ApPp!BiNf.Ak-z!BApQssvMk!Bs#L!BRbG!Bzik!Btrb.At(3!B!S.dnzib!B%Nc!Bgog!Bf+e!SgFl#&vgF)evezhahi.dn<Kk!Bnrj!BBLv!Bobs.Amv.FgRiP!Bjay!B+$.Fgt/a.AOBn<#Hex!B?UY!Bzzz!BmBk!Bkr.g#4sg!B!Oo.ip#A!BAk{!B/bDgotva.AliK!BccloC$lR.Aexo.Avv.Fglmn.A>!S!BsuE!Bf~E.Avum.AntktvrivneUu.FgVH.ppdpk!B}Fa.AcUa.AecZeE?z+.Atbu!Ba`.Fgax$!BzhMU~ETbiksnY.A*i.Fgma=.i",
@@ -1184,6 +1184,7 @@ domains = {
  9:"wQElAgwLOcrypt@afewLOwQElAg"
 },
 "il":{
+ 2:"co",
  6:"nD).coynJ.coz$i.co",
  7:"!Sru.coErCa.co7kCG.cowAnB.codJGy.cofFex.FgveEy.co",
  8:"$%S!D.cop=ula.cot?lJ&.co",
