@@ -223,3 +223,7 @@ tidal.com
 rutracker.cc
 static.rutracker.cc
 matrix.to
+narkive.com
+habr.com
+rebrand.ly
+
