@@ -226,4 +226,6 @@ matrix.to
 narkive.com
 habr.com
 rebrand.ly
+com.ua
+co.il
 
