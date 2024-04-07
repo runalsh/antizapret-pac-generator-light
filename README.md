@@ -7,33 +7,27 @@
 Resulting PAC files is
 
     - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl.pac
-
     - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl.pac
-
     - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-pattern.pac
-
     - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-pattern.pac
+    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-pattern.pac
+    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-original.pac
+    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-original-myproxy.pac
+    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-original.pac
+    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-original-myproxy.pac- 
 
 Changes/improvements:
 
     - requirements install
-
     - itdoginfo lists (https://github.com/itdoginfo/allow-domains)
-
     - antifilter CE list (https://community.antifilter.download/)
-
     - openai list (https://github.com/antonme/ipnames/blob/master/dns-openai.txt)
-
-    - svintuss  (https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt)
-
+    - svintuss list (https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt)
     - github action for PAC update (daily at 01:00)
-
     - TOR and I2P integration (change servers in /config/config.sh)
-
     - proxies changed to 127.0.0.1:6666 - local shadowsocks (change in /config/config.sh)
-
     - option EXCLUDE_PATTERN_PAC in config/config.sh to enable skipping some frequent patterns (list - excludepattern.sh) for reduce resulting PAC files
-
+    - added build original pac file and original with my proxy
     - small improvements
 
 Bug (fck windows): new scripts doesnt have exec bit, git add --chmod=+x -- *.sh *.py or git add --chmod=+x -- *. *
