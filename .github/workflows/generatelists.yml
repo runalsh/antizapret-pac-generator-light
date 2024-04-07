@@ -22,6 +22,13 @@ jobs:
       - name: update
         run: ./doall.sh
 
+      - name: make original pac
+        run: |
+          git clone https://bitbucket.org/anticensority/antizapret-pac-generator-light antizapret-pac-generator-light-original
+          antizapret-pac-generator-light-original/doall.sh
+          mv antizapret-pac-generator-light-original/result/proxy-host-ssl.pac antizapret-pac-generator-light-original/result/proxy-host-ssl-original.pac
+          mv antizapret-pac-generator-light-original/result/proxy-host-nossl.pac antizapret-pac-generator-light-original/result/proxy-host-nossl-original.pac
+
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%dT%H:%M:%S')"
@@ -29,7 +36,7 @@ jobs:
       - name: Push lists
         uses: EndBug/add-and-commit@v9
         with:
-          add: './result/proxy-host-*.pac'
+          add: './result/*.pac ./antizapret-pac-generator-light-original/result/*.pac'
           author_name: GitHub Action
           author_email: githubaction@githubaction.com
           message: 'Update PAC files ${{ steps.date.outputs.date }}'
