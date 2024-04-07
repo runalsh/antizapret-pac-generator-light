@@ -21,21 +21,25 @@ jobs:
         with:
           submodules: true
 
-      - name: update
-        run: ./doall.sh
+      # - name: update
+      #   run: ./doall.sh
 
       - name: make original pac # git clone https://bitbucket.org/anticensority/antizapret-pac-generator-light antizapret-pac-generator-light-original
         run: |
           ./requirements.sh
           echo "./generate-pac.sh" >> antizapret-pac-generator-light-original/doall.sh
-          ls -la antizapret-pac-generator-light-original
+          sed -i 's/ssl.pac/ssl-original.pac/' antizapret-pac-generator-light-original/config/config.sh
+          sed -i 's/^\PACHTTPSHOST.*/PACHTTPSHOST='127.0.0.1:6666/' antizapret-pac-generator-light-original/config/config.sh
+          sed -i 's/^\PACPROXYHOST.*/PACPROXYHOST='127.0.0.1:6666/' antizapret-pac-generator-light-original/config/config.sh
+          sed -i 's/^\PACFBTWHOST.*/PACFBTWHOST='127.0.0.1:6666/' antizapret-pac-generator-light-original/config/config.sh
           antizapret-pac-generator-light-original/doall.sh
-          mv antizapret-pac-generator-light-original/result/proxy-host-ssl.pac ./result/proxy-host-ssl-original.pac
-          mv antizapret-pac-generator-light-original/result/proxy-host-nossl.pac ./result/proxy-host-nossl-original.pac
-
+          
+      - name : orgininal pac with my proxy
+        run: |
+          
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%dT%H:%M:%S')"
+        run: echo "::set-output name=date::$(TZ=Europe/Moscow date +'%Y-%m-%dT%H:%M:%S')"
 
       - name: Push lists
         uses: EndBug/add-and-commit@v9
