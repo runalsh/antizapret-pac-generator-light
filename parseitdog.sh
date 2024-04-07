@@ -10,7 +10,7 @@ wget -O itdog-3-`date '+%d-%B-%Y'`.lst https://raw.githubusercontent.com/itdogin
 cat itdog-1-`date '+%d-%B-%Y'`.lst >> ./config/include-hosts-custom.txt
 cat itdog-2-`date '+%d-%B-%Y'`.lst >> ./config/include-hosts-custom.txt
 cat itdog-3-`date '+%d-%B-%Y'`.lst >> ./config/include-hosts-custom.txt
-wget -O itdog-exclude-`date '+%d-%B-%Y'`.lst https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst
+wget -O itdog-exclude-`date '+%d-%B-%Y'`.lst https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/outside-raw.lst
 cat itdog-exclude-`date '+%d-%B-%Y'`.lst >> ./config/exclude-hosts-custom.txt
 rm -rf itdog-*.lst
 # awk '! a[$0]++' ./config/include-hosts-custom.txt
