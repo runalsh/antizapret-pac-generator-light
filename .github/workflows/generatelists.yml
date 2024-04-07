@@ -21,7 +21,7 @@ jobs:
         with:
           submodules: true
 
-      - name: update
+      - name: make my version
         run: ./doall.sh
 
       - name: make original pac # git clone https://bitbucket.org/anticensority/antizapret-pac-generator-light antizapret-pac-generator-light-original
@@ -33,7 +33,7 @@ jobs:
           mv antizapret-pac-generator-light-original/result/proxy-host-ssl-original.pac ./result
           mv antizapret-pac-generator-light-original/result/proxy-host-nossl-original.pac ./result
           
-      - name : orginal pac with my proxy
+      - name : make orginal pac with my proxy
         run: |
           sed -i 's/^\PACHTTPSHOST.*/PACHTTPSHOST="127.0.0.1:6666"/' antizapret-pac-generator-light-original/config/config.sh
           sed -i 's/^\PACPROXYHOST.*/PACPROXYHOST="127.0.0.1:6666"/' antizapret-pac-generator-light-original/config/config.sh
