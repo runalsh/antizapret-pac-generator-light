@@ -6,15 +6,13 @@
 
 Resulting PAC files is
 
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-pattern.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-pattern.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-pattern.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-original.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-original-myproxy.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-original.pac
-    - https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-original-myproxy.pac- 
+| NOSSL  | SSL  |
+|---|---|
+| [proxy-host-nossl.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl.pac)  | [proxy-host-ssl.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl.pac)  |
+| [proxy-host-nossl-pattern.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-pattern.pac) | [proxy-host-ssl-pattern.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-pattern.pac)  |
+| [proxy-host-nossl-original.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-original.pac) |  [proxy-host-ssl-original.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-original.pac) |
+| [proxy-host-nossl-original-myproxy.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-nossl-original-myproxy.pac)  |  [proxy-host-ssl-original-myproxy.pac](https://raw.githubusercontent.com/runalsh/antizapret-pac-generator-light/main/result/proxy-host-ssl-original-myproxy.pac) |
+
 
 Changes/improvements:
 
@@ -45,4 +43,4 @@ Notes
     - may be add https://github.com/bol-van/rulist resolved ip and domains instead of z-i
 
 
-Original https://bitbucket.org/anticensority/antizapret-pac-generator-light (commit f95edbf from 2024-01-06)
+Original https://bitbucket.org/anticensority/antizapret-pac-generator-light (commit 2d79814 from 2024-04-03)
