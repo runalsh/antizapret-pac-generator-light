@@ -1,5 +1,5 @@
 // ProstoVPN.AntiZapret PAC-host File
-// Generated on Sun Apr  7 10:06:37 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
+// Generated on Sun Apr  7 10:08:28 UTC 2024, by https://bitbucket.org/anticensority/antizapret-pac-generator-light/
 // THIS FILE IS NEITHER OBFUSCATED NOR ENCRYPTED, IT'S COMPRESSED TO COMPLY WITH BROWSER PAC FILE SIZE LIMITS.
 //
 // NOTE 1: Proxy.pac file content varies on User-Agent HTTP header.
@@ -1028,6 +1028,16 @@ function FindProxyForURL(url, host) {
   // remove leading www
   shost = shost.replace(/^www\.(.+)/, "$1");
 
+  fbtw = ['twitter.com', 'twimg.com', 't.co', 'x.com',
+          'facebook.com', 'fbcdn.net',
+          'instagram.com', 'cdninstagram.com',
+          'fb.com', 'messenger.com',
+          'yt3.ggpht.com'
+          ];
+  if (fbtw.indexOf(shost) !== -1) {
+    return "HTTPS 127.0.0.1:6666; DIRECT";
+  }
+
   var curdomain = shost.match(/(.*)\.([^.]+$)/);
   if (!curdomain || !curdomain[2]) {return "DIRECT";}
   var curhost = curdomain[1];
@@ -1064,7 +1074,7 @@ function FindProxyForURL(url, host) {
     // You should NOT use these proxy servers outside of PAC file!
     // DO NOT enter it manually in any program!
     // By doing this, you harm the service!
-    return "PROXY proxy-nossl.antizapret.prostovpn.org:29976; DIRECT";
+    return "HTTPS 127.0.0.1:6666; PROXY 127.0.0.1:6666; DIRECT";
   }
 
   return "DIRECT";
