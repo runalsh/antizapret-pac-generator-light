@@ -44,3 +44,4 @@ bizml.ru
 ampproject.org
 r.appspot.com
 hitmotop.com
+perm.ru

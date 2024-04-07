@@ -19,25 +19,40 @@ function printarray(arrname, arr) {
     for (domainzone in arr) {
         if (firsttime_1 == 0) {printf ",\n"} firsttime_1 = 0;
 
-        print "\"" domainzone "\":{"
+        printf "\"" domainzone "\":{"
 
         for (domainlength in arr[domainzone]) {
-            if (firsttime_2 == 0) {printf ",\n"} firsttime_2 = 0;
+            if (firsttime_2 == 0) {printf ","} firsttime_2 = 0;
 
-            printf " %s", "" domainlength ":\""
-            for (domainname in arr[domainzone][domainlength]) {
-                printf "%s", domainname
-            }
-            printf "\""
+            printf "%s", "" domainlength ":"
+            printf "%d", length(arr[domainzone][domainlength]) * domainlength
+            #for (domainname in arr[domainzone][domainlength]) {
+            #    printf "%d", length(domainname)
+            #}
+            #printf "\""
         }
 
         firsttime_2 = 1;
-        printf "\n}"
+        printf "}"
     }
     print "};"
 }
 
+function printarray_oneline(arr) {
+    for (domainzone in arr) {
+        for (domainlength in arr[domainzone]) {
+            for (domainname in arr[domainzone][domainlength]) {
+                printf "%s", domainname
+            }
+        }
+    }
+}
+
 # Final function
 END {
-    printarray("domains", domainarray)
+    if (lzp) {
+        printarray_oneline(domainarray)
+    } else {
+        printarray("domains", domainarray)
+    }
 }

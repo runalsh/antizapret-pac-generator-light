@@ -21,7 +21,7 @@ wordreplace=["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",
              "@", "#", "$", "%", "^", "\\\\&", "*", "(", ")",
              "=", "+", "/", ",", "<", ">", "~", "[", "]", "{", "}",
              "`", ":", ";", "?"]
-wordreplace_big = ["!" + chr(x) for x in range(ord("A"), ord("Z") + 1)]
+wordreplace_big = ["!" + x for x in wordreplace]
 
 with open(sys.argv[1], "r") as dfile:
     domains = dfile.read().split("\n")
