@@ -19,12 +19,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: update
-        run: ./doall.sh
+      # - name: update
+      #   run: ./doall.sh
 
-      - name: make original pac
+      - name: make original pac # git clone https://bitbucket.org/anticensority/antizapret-pac-generator-light antizapret-pac-generator-light-original
         run: |
-          git clone https://bitbucket.org/anticensority/antizapret-pac-generator-light antizapret-pac-generator-light-original
+          echo "./generate-pac.sh" >> antizapret-pac-generator-light-original/doall.sh
           antizapret-pac-generator-light-original/doall.sh
           mv antizapret-pac-generator-light-original/result/proxy-host-ssl.pac antizapret-pac-generator-light-original/result/proxy-host-ssl-original.pac
           mv antizapret-pac-generator-light-original/result/proxy-host-nossl.pac antizapret-pac-generator-light-original/result/proxy-host-nossl-original.pac
