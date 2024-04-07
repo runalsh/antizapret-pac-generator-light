@@ -22,7 +22,7 @@ Changes/improvements:
     - openai list (https://github.com/antonme/ipnames/blob/master/dns-openai.txt)
     - svintuss list (https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt)
     - github action for PAC update (daily at 01:00)
-    - ~~  TOR and I2P integration (change servers in /config/config.sh)~~  
+    - ~~TOR and I2P integration (change servers in /config/config.sh)~~  
     - proxies changed to 127.0.0.1:6666 - local shadowsocks (change in /config/config.sh)
     - option EXCLUDE_PATTERN_PAC in config/config.sh to enable skipping some frequent patterns (list - excludepattern.sh) for reduce resulting PAC files
     - added build original pac file and original with my proxy
