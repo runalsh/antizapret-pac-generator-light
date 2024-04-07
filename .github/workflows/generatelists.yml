@@ -30,8 +30,8 @@ jobs:
           echo "./generate-pac.sh" >> antizapret-pac-generator-light-original/doall.sh
           ls -la antizapret-pac-generator-light-original
           antizapret-pac-generator-light-original/doall.sh
-          mv antizapret-pac-generator-light-original/result/proxy-host-ssl.pac antizapret-pac-generator-light-original/result/proxy-host-ssl-original.pac
-          mv antizapret-pac-generator-light-original/result/proxy-host-nossl.pac antizapret-pac-generator-light-original/result/proxy-host-nossl-original.pac
+          mv antizapret-pac-generator-light-original/result/proxy-host-ssl.pac ./result/proxy-host-ssl-original.pac
+          mv antizapret-pac-generator-light-original/result/proxy-host-nossl.pac ./result/proxy-host-nossl-original.pac
 
       - name: Get current date
         id: date
