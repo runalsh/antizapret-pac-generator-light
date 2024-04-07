@@ -33,9 +33,9 @@ jobs:
           
       - name : orginal pac with my proxy
         run: |
-          sed -i 's/^\PACHTTPSHOST.*/PACHTTPSHOST='127.0.0.1:6666/' antizapret-pac-generator-light-original/config/config.sh
-          sed -i 's/^\PACPROXYHOST.*/PACPROXYHOST='127.0.0.1:6666/' antizapret-pac-generator-light-original/config/config.sh
-          sed -i 's/^\PACFBTWHOST.*/PACFBTWHOST='127.0.0.1:6666/' antizapret-pac-generator-light-original/config/config.sh
+          sed -i 's/^\PACHTTPSHOST.*/PACHTTPSHOST="127.0.0.1:6666"/' antizapret-pac-generator-light-original/config/config.sh
+          sed -i 's/^\PACPROXYHOST.*/PACPROXYHOST="127.0.0.1:6666"/' antizapret-pac-generator-light-original/config/config.sh
+          sed -i 's/^\PACFBTWHOST.*/PACFBTWHOST="127.0.0.1:6666"/' antizapret-pac-generator-light-original/config/config.sh
           antizapret-pac-generator-light-original/doall.sh
       - name: Get current date
         id: date
