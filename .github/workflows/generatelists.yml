@@ -21,8 +21,8 @@ jobs:
         with:
           submodules: true
 
-      # - name: update
-      #   run: ./doall.sh
+      - name: update
+        run: ./doall.sh
 
       - name: make original pac # git clone https://bitbucket.org/anticensority/antizapret-pac-generator-light antizapret-pac-generator-light-original
         run: |
