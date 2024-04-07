@@ -30,8 +30,8 @@ jobs:
           echo "./generate-pac.sh" >> antizapret-pac-generator-light-original/doall.sh
           sed -i 's/ssl.pac/ssl-original.pac/' antizapret-pac-generator-light-original/config/config.sh
           antizapret-pac-generator-light-original/doall.sh
-          mv antizapret-pac-generator-light-original/result/proxy-host-ssl.pac ./result
-          mv antizapret-pac-generator-light-original/result/proxy-host-nossl.pac ./result
+          mv antizapret-pac-generator-light-original/result/proxy-host-ssl-original.pac ./result
+          mv antizapret-pac-generator-light-original/result/proxy-host-nossl-original.pac ./result
           
       - name : orginal pac with my proxy
         run: |
