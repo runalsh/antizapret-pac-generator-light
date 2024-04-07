@@ -27,9 +27,9 @@ jobs:
       - name: make original pac # git clone https://bitbucket.org/anticensority/antizapret-pac-generator-light antizapret-pac-generator-light-original
         run: |
           ./requirements.sh
+          echo "./generate-pac.sh" >> antizapret-pac-generator-light-original/doall.sh
           ls -la antizapret-pac-generator-light-original
           antizapret-pac-generator-light-original/doall.sh
-          antizapret-pac-generator-light-original/generate-pac.sh
           mv antizapret-pac-generator-light-original/result/proxy-host-ssl.pac ./result/proxy-host-ssl-original.pac
           mv antizapret-pac-generator-light-original/result/proxy-host-nossl.pac ./result/proxy-host-nossl-original.pac
 
