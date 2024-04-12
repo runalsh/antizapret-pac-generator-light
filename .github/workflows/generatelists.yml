@@ -53,5 +53,5 @@ jobs:
           add: './result/*'
           author_name: GitHub Action
           author_email: githubaction@githubaction.com
-          message: 'Update PAC files ${{ steps.date.outputs.date }}'
+          message: 'Update PAC and CONF files ${{ steps.date.outputs.date }}'
           push: true
