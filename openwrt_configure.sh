@@ -1,5 +1,9 @@
 #openwrt set
 
+# echo "conf-dir=/etc/dnsmasq.d" >> /etc/dnsmasq.conf
+
+
+
 rm -rf /etc/dnsmasq.d/dnsmasq-aliases-alt.conf
 ipset flush vpn_ipsum
 mkdir -p /etc/dnsmasq.d/
