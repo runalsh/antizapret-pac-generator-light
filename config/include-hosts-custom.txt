@@ -14,13 +14,11 @@ webagesolutions.com
 archive.today
 stackoverflow.com
 archive.ph
-gitguardian.com
 4pda.to
 roscenzura.com
 chat.openai.com
 oaistatic.com
 oaiusercontent.com
-api.github.com
 wise.com
 play.google.com
 dl.uploadgram.me
@@ -208,3 +206,7 @@ co.il
 veritas.com
 voidboost.cc
 superuser.com
+papertrail.com
+intellipaat.com
+spotify.com
+
