@@ -60,8 +60,21 @@ done < result/blocked-ranges.txt
 echo -n > result/dnsmasq-aliases-alt.conf
 while read -r line
 do
-    echo "server=/$line/127.0.0.4" >> result/dnsmasq-aliases-alt.conf
+    echo "server=/$line/$DNSMASQ_ALIASES_ALT_IP" >> result/dnsmasq-aliases-alt.conf
 done < result/hostlist_zones.txt
+
+
+# Generate dnsmasq ipset aliases
+if [[ "$DNSMASQ_IPSET_GENERATE" == "yes" ]];
+then
+    echo "Generating dnsmasq-ipset configuration"
+    echo -n > result/dnsmasq-ipset.conf
+    while read -r line
+    do
+        echo "server=/$line/$$DNSMASQ_IPSET_IP" >> result/dnsmasq-ipset.conf
+        echo "ipset=/$line/vpn_ipsum" >> result/dnsmasq-ipset.conf
+    done < result/hostlist_zones.txt
+fi
 
 
 # Generate knot-resolver aliases

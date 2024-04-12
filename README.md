@@ -17,6 +17,7 @@ Resulting PAC files is
 Changes/improvements:
 
     - requirements install
+    - dnsmasq ipset generation
     - itdoginfo lists (https://github.com/itdoginfo/allow-domains)
     - antifilter CE list (https://community.antifilter.download/)
     - openai list (https://github.com/antonme/ipnames/blob/master/dns-openai.txt)
