@@ -67,11 +67,10 @@ done < result/hostlist_zones.txt
 # Generate dnsmasq ipset aliases
 if [[ "$DNSMASQ_IPSET_GENERATE" == "yes" ]];
 then
-    echo "Generating dnsmasq-ipset configuration"
     echo -n > result/dnsmasq-ipset.conf
     while read -r line
     do
-        echo "server=/$line/$$DNSMASQ_IPSET_IP" >> result/dnsmasq-ipset.conf
+        echo "server=/$line/$DNSMASQ_IPSET_IP" >> result/dnsmasq-ipset.conf
         echo "ipset=/$line/vpn_ipsum" >> result/dnsmasq-ipset.conf
     done < result/hostlist_zones.txt
 fi
