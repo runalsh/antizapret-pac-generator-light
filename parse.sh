@@ -71,7 +71,7 @@ then
     while read -r line
     do
         echo "server=/$line/$DNSMASQ_IPSET_IP" >> result/dnsmasq-ipset.conf
-        echo "ipset=/$line/vpn_ipsum" >> result/dnsmasq-ipset.conf
+        echo "ipset=/$line/$DNSMASQ_IPSET_TABLE" >> result/dnsmasq-ipset.conf
     done < result/hostlist_zones.txt
 fi
 

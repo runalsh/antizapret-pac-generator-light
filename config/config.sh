@@ -25,5 +25,6 @@ PACFILE_PATTERN_NOSSL="result/proxy-host-nossl-pattern.pac"
 
 DNSMASQ_IPSET_GENERATE="yes"
 DNSMASQ_IPSET_IP="127.0.0.1"
+DNSMASQ_IPSET_TABLE="vpn_ipsum"
 
 DNSMASQ_ALIASES_ALT_IP="127.0.0.1" #default 127.0.0.4
