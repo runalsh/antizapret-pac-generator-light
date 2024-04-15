@@ -20,7 +20,6 @@ chat.openai.com
 oaistatic.com
 oaiusercontent.com
 wise.com
-play.google.com
 dl.uploadgram.me
 t.co
 twimg.com
@@ -183,8 +182,6 @@ archive
 librus.ec
 khtulhu.org.ua
 chatgpt.com
-bard.google.com
-gemini.google.com
 ai.com
 claude.ai
 anthropic.com
@@ -193,7 +190,6 @@ bingapis.com
 moscowtimes.ru
 azure.com
 vak-sms.com
-yt3.ggpht.com
 tidal.com
 rutracker.cc
 static.rutracker.cc
@@ -209,4 +205,5 @@ superuser.com
 papertrail.com
 intellipaat.com
 spotify.com
-
+ionos.com
+nano-editor.org
