@@ -207,3 +207,5 @@ intellipaat.com
 spotify.com
 ionos.com
 nano-editor.org
+amazon.com
+
