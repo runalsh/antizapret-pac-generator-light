@@ -10,6 +10,8 @@
 
 # echo '99 vpn_ipsum' >> /etc/iproute2/rt_tables
 
+# https://github.com/and-semakin/blog_source/blob/13994d62873e675094fa543e31556d5d37938829/pelican/content/blog/openwrt_vpn_rkn.md
+
 # 30-vpnroute в  /etc/hotplug.d/iface/
 # #!/bin/sh
 # ip route add table vpn_ipsum default dev awg1
