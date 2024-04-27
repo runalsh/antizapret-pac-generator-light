@@ -147,8 +147,10 @@
 1-win-advancement.ru
 1-win-android.net.ru
 1-win-android.pp.ru
+1-win-app.net.ru
 1-win-app.org.ru
 1-win-app.party
+1-win-app.pp.ru
 1-win-app.ru
 1-win-aviator.fun
 1-win-bk-android.net.ru
@@ -176,18 +178,24 @@
 1-win-iphone.net.ru
 1-win-iphone.org.ru
 1-win-iphone.pp.ru
+1-win-license-bk.net.ru
+1-win-license-site-bk.org.ru
 1-win-mirror.party
 1-win-mirror.pp.ru
 1-win-mirror.press
 1-win-mirror.pw
 1-win-now.com
 1-win-official-site.pp.ru
+1-win-official.click
 1-win-official.life
 1-win-official.org.ru
+1-win-officiale.com.ru
 1-win-officiale.net.ru
 1-win-officiale.org.ru
 1-win-officiale.pp.ru
 1-win-officialsite.net.ru
+1-win-officialsite.org.ru
+1-win-prilozhenie.net.ru
 1-win-prilozhenie.org.ru
 1-win-prilozhenie.pp.ru
 1-win-promocode.org.ru
@@ -203,6 +211,7 @@
 1-win-site.pp.ru
 1-win-site.ru
 1-win-site.top
+1-win-site1.top
 1-win-today.org.ru
 1-win-today.top
 1-win-uz.com
@@ -210,10 +219,12 @@
 1-win-vhod-license.pp.ru
 1-win-vhod.net.ru
 1-win-withdraw.top
+1-win.buzz
 1-win.com
 1-win.com.in
 1-win.com.tr
 1-win.es
+1-win.fun
 1-win.in
 1-win.it
 1-win.net.ru
@@ -822,6 +833,7 @@
 1clicktokens.com
 1cmatrix.ru
 1conquer-boost.site
+1conquest-boost.site
 1cproc.ru
 1cprorus.ru
 1cpros.ru
@@ -847,12 +859,14 @@
 1enta.run
 1eosago.com
 1eosago.ru
+1excellence-boost.site
 1eye.us
 1fichier.com
 1fin.credit
 1finance.biz
 1firescatters.com
 1fiuts.ru
+1fortune-boost.site
 1fosjg.store
 1fplurt.store
 1freebonus.today
@@ -867,6 +881,7 @@
 1gdz.work
 1ggbt.com
 1ggbt.net
+1go.icu
 1go2.ru
 1gradus-msk.store
 1gradus24-nn.ru
@@ -1058,6 +1073,7 @@
 1tvsmotrims.ru
 1upi-x.me
 1uxsocks.ru
+1van-vin.ru
 1vewv1x5pd.org
 1video1.ru
 1vin.blog
@@ -1089,6 +1105,7 @@
 1wdt.top
 1wex.top
 1wgdios5mst.com
+1wimnbookmker.ru
 1win-394.ru
 1win-bk.party
 1win-bk.pp.ru
@@ -1147,6 +1164,7 @@
 1win.uno
 1win.works
 1win100.ru
+1win100.top
 1win1031-space.ru
 1win1131.ru
 1win1541-register.ru
@@ -1172,6 +1190,7 @@
 1win257.ru
 1win290-original.ru
 1win2win.ru
+1win365.com
 1win365.top
 1win4173-dark.ru
 1win4293.ru
@@ -1213,6 +1232,7 @@
 1winace.ru
 1winaviator.ru
 1winbablo.ru
+1winbest.ru
 1winbfyv.top
 1winbk-bukmaker.ru
 1winbk-official-site-12.ru
@@ -1284,6 +1304,7 @@
 1wininput.ru
 1winjoy.ru
 1winlegal.ru
+1winlotoru.ru
 1winluck.ru
 1winlucky-jet.com
 1winluckyjet.org
@@ -1320,6 +1341,7 @@
 1winofficial.in
 1winofficiall25.top
 1winofficiall26.buzz
+1winofficiall27.buzz
 1winoffst20.fun
 1winoffst21.fun
 1winoffst22.fun
@@ -1330,7 +1352,9 @@
 1winoutput.ru
 1winpartner.ru
 1winplm16.top
+1winplm17.buzz
 1winplus.com
+1winpobeda.ru
 1winpower.ru
 1winprime.ru
 1winpro.buzz
@@ -1360,6 +1384,7 @@
 1winvbn12.fun
 1winvbn13.top
 1winvbn9.top
+1winvhod.ru
 1winvip.ru
 1winweb.ru
 1winwebsite.ru
@@ -1377,6 +1402,7 @@
 1winxcv5.fun
 1winxcv6.fun
 1winxcv7.fun
+1winygc10.fun
 1winygc7.top
 1winygc8.top
 1winygc9.fun
@@ -2355,6 +2381,7 @@
 2rusalco24-rnd.store
 2rusalco24tumen.ru
 2rusalco24tumen.store
+2samara24-100grammchik.ru
 2see.xyz
 2shou.ru
 2sisi.com
@@ -2897,6 +2924,7 @@
 4alcoexpress-kzn.store
 4alcoexpress24-krasnodar.ru
 4alcoexpress24-krasnodar.store
+4alcoexpress24-msk.ru
 4alcoexpress24-nn.ru
 4alcoexpress24-nsk.store
 4alcoexpress24-samara.ru
@@ -3034,6 +3062,7 @@
 4sg.com.ua
 4shield.su
 4shvostikom.com
+4stattoo.ru
 4stream.gg
 4studio.com.ua
 4technolog.ru
@@ -3578,6 +3607,7 @@
 7alcoexpress-kzn.ru
 7alcoexpress24-krasnodar.ru
 7alcoexpress24-krasnodar.store
+7alcoexpress24-samara.ru
 7alcoraketa-kazan.ru
 7alcoraketa-kazan.store
 7alcoraketa24-krd.ru
@@ -3917,12 +3947,14 @@
 7pio8my.icu
 7prichin.ru
 7qkh8-az-ino777.icu
+7raketa-alco24-nn.ru
 7region.kz
 7ru.tv
 7rusalco24-barnaul.ru
 7rusalco24-barnaul.store
 7rusalco24-rnd.ru
 7rusalco24-rnd.store
+7rusalco24korolev.ru
 7scano-ff.info
 7school-petr.ru
 7sekre.site
@@ -4420,6 +4452,7 @@ abesu.org
 abf-b.biz
 abf-next.co
 abfnext.com
+abfxexchange.com
 abg.pp.ua
 abgranit.ru
 abhiecommerce.com
@@ -4885,6 +4918,7 @@ adi-elochka.ru
 adict.click
 adidas24.biz
 adidas247.biz
+adidaspromo.ru
 adigeyaislam.com
 adihash.top
 adikos.net
@@ -5245,6 +5279,7 @@ aektel.ru
 aelita72.ru
 aelite-person.ru
 aelongcompany.com
+aemsecrets.com
 aenigmainc.com
 aeolispsue.space
 aeq24.biz
@@ -5299,6 +5334,7 @@ affairsandorder.com
 affarepiedi.com
 affbauer.com
 affcaspro.ru
+affde.com
 affectvcfr.space
 affgambler.com
 affgambler.ru
@@ -6027,7 +6063,6 @@ alasaka.site
 alasakab.site
 alaska-vent.ru
 alaskaseafood.ru
-alaskavrn.ru
 alasme.com
 alatex-ingredients.ru
 alatyrmebel.ru
@@ -6501,6 +6536,7 @@ allbesta.net
 allbesta.org
 allbestiality.com
 allbezdeps.com
+allbiznes.net
 allbk.kz
 allblack-lipsinc.com
 allboilers.ru
@@ -6523,6 +6559,7 @@ alldnp.xyz
 alldojki.com
 alldragons.ru
 allee.ru
+allegro-sochi.ru
 allegro-stom.ru
 allegro.pl
 allemails.top
@@ -6608,6 +6645,7 @@ allinvst.xyz
 allisa.ru
 allitstudio.com
 alliumovzn.store
+alljb.al
 alljb.eu
 allkbps.ru
 allkharkov.ua
@@ -6774,6 +6812,7 @@ alny2.site
 alny2.store
 alny3.site
 alny3.store
+alny4.site
 alnymarket.com
 alnymarket.ru
 alogin.network
@@ -6956,6 +6995,7 @@ alta-profil-perm.ru
 altacademia.ru
 altageorgia.ru
 altai-indi.ru
+altai-ses.ru
 altai-tent-arenda.ru
 altai-time.ru
 altaiagromash.ru
@@ -6991,6 +7031,7 @@ altcoinsignals.com
 altcoinspending.top
 alteka.su
 alteorden.com
+alter.si
 altera-global.net
 altera-travel.ru
 alterchan.net
@@ -7699,6 +7740,7 @@ animedom.cyou
 animedub.ru
 animefan.ru
 animego-go.org
+animego.ink
 animego.today
 animehaus.ru
 animehentaifuck.com
@@ -7744,6 +7786,7 @@ animevost3.org
 animevvost.ru
 animexxxmovies.com
 animexxxsex.com
+animiku.biz
 animir.info
 anirem.org
 anisite.ru
@@ -7789,6 +7832,7 @@ annas-archive.org
 annaschool3.ru
 annatulina.ru
 annaverdi.spb.ru
+annetteferro.com
 annettemccleave.com
 annexawmuh.space
 annicknuger-aquarelle.net
@@ -9288,6 +9332,7 @@ artmed18.ru
 artmedgroup.ru
 artnet2022.com
 artnet2023.com
+artnetwk2024.com
 artnetwrk2022.com
 artnetwrk2023.com
 artnice.ru
@@ -9495,6 +9540,7 @@ ashoo.ch
 ashoo.cm
 ashoo.co
 ashoo.com
+ashoo.day
 ashoo.de
 ashoo.fans
 ashoo.id
@@ -10581,6 +10627,7 @@ avmedia.su
 avmfarm.ru
 avmoreira.com
 avocado.best
+avocado.giving
 avocado.name
 avocado.onl
 avocado.plus
@@ -10682,6 +10729,7 @@ avtogear16.ru
 avtogeometriya-str.ru
 avtograd161.ru
 avtograf2012.ru
+avtohaval.com
 avtohlamu.net
 avtokatalogi.su
 avtoklondaik.ru
@@ -11318,7 +11366,6 @@ baby-car.ru
 baby-centr.info
 baby-country.ru
 baby-ortoped.ru
-baby-winner.ru
 baby38.ru
 babyboxrf.ru
 babycleane.com
@@ -11579,6 +11626,7 @@ bambooroommusic.com
 bambooua.com
 bampart.ru
 ban-dera.com
+banaetkinlik.com
 banana-craft.su
 bananaclips.net
 bananacsgo.com
@@ -11633,6 +11681,7 @@ banner-mix.ru
 banner4print.ru
 bannerboo.com
 bannernulx.space
+bannerplus.ru
 bannersmara.com
 bannersnballoons.net
 bannerwildfloorsphere.click
@@ -11752,6 +11801,7 @@ barredon.com
 barrelwake.info
 barrenaabogados.net
 barrestauranteazul.com
+barricadebiz.top
 barrik.ru
 barrinautolombard.ru
 barrique.cafe
@@ -12111,6 +12161,7 @@ bcs-gl.top
 bcs.gl
 bcs247.org
 bcs2web.at
+bcsfx24.com
 bcsfx365.com
 bcsspecialtips.com
 bcustom.ru
@@ -12352,6 +12403,7 @@ beg.dp.ua
 beganov.pp.ua
 begaprom.space
 begdominate.info
+beginnerwealth.ru
 beglov2019.spb.ru
 begun10.ru
 beguschiy-v-labirinte.ru
@@ -12494,6 +12546,7 @@ belsat.eu
 belsch200.ru
 belsch3.ru
 belsch5.ru
+belschool30.ru
 belschool45.ru
 belspeed.biz
 belsteroid.biz
@@ -12802,7 +12855,6 @@ bestaiprompts.net
 bestaliproducts.com
 bestandfree.com
 bestanime3.xyz
-bestaptek24.ru
 bestasianp.com
 bestavtolombard.ru
 bestbatarei.ru
@@ -12959,6 +13011,7 @@ bestpillstoday.se
 bestpodbor.ru
 bestpolarbear.com
 bestprofit.com.ru
+bestprofit.net.ru
 bestprofit.spb.ru
 bestprofitvalue.click
 bestprogitut.ru
@@ -13273,6 +13326,7 @@ bggepastor.ru
 bghgkjefbf.site
 bgk-udokan.ru
 bgme.bid
+bgoooso.info
 bgp7.ru
 bgpmon.net
 bgpop.store
@@ -13284,7 +13338,6 @@ bgsresearch.ru
 bguzel.ru
 bh33.ru
 bhabhixxx.pro
-bharatv.ru
 bhartkuwait.com
 bhb.group
 bhclip.com
@@ -13718,6 +13771,7 @@ binarium.net
 binarium.network
 binarium.one
 binarium.onl
+binarium.ooo
 binarium.page
 binarium.place
 binarium.pm
@@ -13752,6 +13806,7 @@ binariuma.com
 binariumc.com
 binariume.com
 binariuml.com
+binariumm.com
 binariumn.com
 binariumo.com
 binariumru.ru
@@ -14250,6 +14305,7 @@ bizlit.com.ua
 bizlytics.net
 bizner.biz
 biznes-boom.ru
+biznes-expert.com
 biznes-intensiv.ru
 biznes-time.ru
 biznesfakty.com
@@ -14915,6 +14971,7 @@ blutube.ru
 bluwallet.net
 bluzki500.ru
 bluzkiodezhda.ru
+blwd-active.top
 blwd-victory.net
 blwdsfun.net
 blwdslucky.net
@@ -14947,6 +15004,7 @@ bmp-poris.org
 bmrfrozenmeat.com
 bmuzc.ru
 bmuzon.ru
+bmw-courier.ru
 bmw-group.com.ua
 bmw-liberum.ru
 bmw24.cc
@@ -15146,8 +15204,10 @@ bollyrulezz.net
 bollyscreen.com
 bollywood-cas1no-amp.ru
 bollywood-casin0-amp.ru
+bollywood-enjoy.net
 bollywood.edu.pl
 bollywoodenjoy.net
+bollywoodgaming.top
 bollywoodsactive.net
 bollywoodsvictory.net
 bollywoodswin.net
@@ -15613,6 +15673,7 @@ bosikom-po-oblakam.ru
 boss-baby.fun
 boss-baby.site
 boss-baby.space
+boss-baby.website
 boss-monitor.site
 boss-monitor.top
 boss100.gq
@@ -16230,7 +16291,6 @@ bs.market
 bs001.cc
 bs001.top
 bs001me.at
-bs01.biz
 bs01.cfd
 bs01.gl
 bs01.help
@@ -16305,7 +16365,7 @@ bs2beast.at
 bs2best-at.ru
 bs2best.at
 bs2best.com.ru
-bs2best.icu
+bs2best.rip
 bs2best1.at
 bs2best3.com
 bs2bestat.com
@@ -16724,6 +16784,7 @@ budzdorov-med.ru
 buenaisla.net
 buf.build
 bufet74.ru
+bufetevaldivieso.com
 buff-movie-comedy.ru
 buff-movie-melodramy.ru
 buff88.com
@@ -17039,6 +17100,7 @@ businessenglish360.com
 businessexpress-msk.ru
 businessfaces.org
 businessforum-ikcapk.ru
+businessfundingeasy.com
 businessifinance.sbs
 businessinblogs.com
 businessincity.ru
@@ -17168,6 +17230,7 @@ buyelep-gapra.com
 buyer-advicer.net
 buyersguidechem.com
 buyersmagaz.ru
+buyerxpo.com
 buyeuromillions.com
 buyeverytod.ru
 buyexpert.net
@@ -17409,6 +17472,7 @@ c4s1n0-x-go-win.pw
 c5rj6hg54y8omst.com
 c5sinorox-auto2.ru
 c64.su
+c6wve.top
 c7info.com
 c8ke.com
 c97.org
@@ -18063,6 +18127,7 @@ cardmates.ua
 cardminers.site
 cardmol.cfd
 cardobnal-job.xyz
+cardpsb.ru
 cardrift.cc
 cardright.site
 cardrive.store
@@ -18308,6 +18373,7 @@ cashdeluxe.net
 cashdreamwlkans.com
 casher.city
 casher.im
+casher.site
 casher.win
 casher1.win
 casher2.win
@@ -18328,6 +18394,7 @@ cashflakers.com
 cashflow.bz
 cashflow.cx
 cashflow.fund
+cashflowcraze.ru
 cashflowgenius.ru
 cashforcpu.com
 cashforcrypt.com
@@ -18574,6 +18641,7 @@ casual-luxury.sbs
 casual-luxury.website
 casual-luxury.xyz
 casual-luxury.yachts
+casual-megs-950368.appspot.com
 casualfwb.com
 casualluxury.cyou
 casualluxury.life
@@ -18972,6 +19040,7 @@ centpourcentpiscines.fr
 centr-2-ndfl.ru
 centr-2ndfl.com
 centr-2ndfl.ru
+centr-bankrotstvo.ru
 centr-child.ru
 centr-com.ru
 centr-dpo.store
@@ -20084,6 +20153,7 @@ chigorus.ru
 chihua-forum.ru
 chihuahua-l.ru
 chijolica.com
+chika24.net
 chikacheck.com
 chikens-farm-original.org
 chikens-farm.fun
@@ -20140,6 +20210,7 @@ chiseledde.top
 chiseledzas.buzz
 chishouefevilsu.cf
 chismenskoe.ru
+chistaya-koja.net
 chistiy-dom35.ru
 chistoenebonsk.ru
 chistyi-nalog.ru
@@ -20173,6 +20244,7 @@ chiyouup.com
 chizask.click
 chizg.biz
 chizh.top
+chizh.vip
 chizhik-rumka.ru
 chizhovo.ru
 chizhtop.com
@@ -20206,6 +20278,7 @@ chochox11.space
 chochox12.pro
 chochox12.space
 chochox14.space
+chochox16.space
 chochox17.space
 chochox9.space
 chococash.co
@@ -20295,6 +20368,7 @@ chronicles-of-chaos.site
 chronicles.media
 chronicles.pro
 chronicles.report
+chronigors.top
 chrono-house.ru
 chryron.com
 chrysalisthibodeau.com
@@ -20347,6 +20421,7 @@ chzbgr.com
 chzdt.kz
 chzhenageeva.ru
 ci-journal.ru
+ci-msu.ru
 cia.gov
 cial-auto.ru
 cialis-20mg-generic.com
@@ -21973,6 +22048,7 @@ coreelec.org
 corehosting.com.ua
 coreinfostore.ru
 corelamps.com
+corelsite.ru
 coreopyohf.space
 corf-gos.org
 corf-gos.ru
@@ -22044,6 +22120,7 @@ cosmetikomania.ru
 cosmetolog-ekb.ru
 cosmic-beauty.ru
 cosmic-matter.ml
+cosmicentity.monster
 cosmicphenomena.website
 cosmicsystem.top
 cosmicthings.ru
@@ -22209,7 +22286,6 @@ craftminibar.ru
 craftmining.net
 crafttheway.com
 craftum.io
-craftunion.ru
 craftyhands.in.net
 craftyhands.space
 craftyskimmer.info
@@ -22473,6 +22549,7 @@ cristal-wave.com
 cristalesparaterrazas.com
 cristall-lefortovo.ru
 cristalresort.net
+cristdesanmiguel.com
 cristianrivero.com
 criswellkylaw.com
 critiquemoi.com
@@ -22527,6 +22604,7 @@ crown48.cc
 crown6.org
 crowncars.ru
 crowncwtad.space
+crownhostel.ru
 crownloetw.space
 crownsic.com
 crownstore24.biz
@@ -22987,7 +23065,6 @@ ctrana.net
 ctrana.news
 ctrana.org
 ctrcenter.org
-ctrvi.ru
 cts48.ru
 ctu-gtn.ru
 cu-oboronprom.ru
@@ -23673,6 +23750,7 @@ daneqau.info
 danerih.site
 danfir-tour.ru
 danflr-tour.ru
+daniel-oviedo.com
 danielaristidou.com
 danielaschreiber.de
 danielavergarasincelejo.com
@@ -24706,7 +24784,6 @@ dermafiller.ru
 dermakor.ru
 derom.site
 deron.space
-derpicdn.net
 derraum.com
 dersaber.com
 dersinalbbeng.cf
@@ -24769,6 +24846,7 @@ dessertglobal.ru
 destijl34.bdsmlr.com
 destinacije.com
 desu-usergeneratedcontent.xyz
+desu.me
 desuarchive.org
 desug-gestexplore.com
 det-dress.ru
@@ -25126,6 +25204,7 @@ dglcqaw.info
 dgon.biz
 dgp148.ru
 dgrblart.info
+dgrjdgj.info
 dgs35.ru
 dh2magnatov.site
 dh420.biz
@@ -25356,6 +25435,7 @@ dimemap.com
 dimeth.com
 dimfarm24.ru
 dimirakinsurance.com
+dimitrovgrad-dosug.ru
 dimitrovskoe.ru
 dimix.eu
 dimokfm.ru
@@ -25878,6 +25958,7 @@ dkonos.space
 dkonufrievo.ru
 dkora-gr.co
 dkp-garant.ru
+dkpntz.ru
 dkprogress.su
 dkro.ru
 dkrolik.com
@@ -25942,6 +26023,7 @@ dmatrx.com
 dmbcosmetics.com
 dmboard.ru
 dmc51.ru
+dmcai-crypto.com
 dmcdn.net
 dmclip.com
 dmee.ru
@@ -26088,6 +26170,7 @@ dobrosotsky.ru
 dobrota-kaluga.ru
 dobrotabac.ru
 dobrotanv.ru
+dobrovira57.ru
 dobrovolec61.ru
 dobrovoltsi.org.ua
 dobrydenmedia.ru
@@ -26370,6 +26453,7 @@ dokymentalnoe.ru
 dokymentiptsrus125.ru
 dokymentiptssts.ru
 dol-school.ru
+dol-school10.ru
 dolaptakicanavar.com
 dolboebka.net
 dolce-vita-rostov.com
@@ -27017,6 +27101,7 @@ dosugbarabk.com
 dosugbararh.com
 dosugbarbel.com
 dosugbarchi.com
+dosugbarchr.com
 dosugbarekb.com
 dosugbariva.com
 dosugbarklg.com
@@ -27278,6 +27363,7 @@ doxgmbh.com
 doxy-chelyabinsk.net
 doxy-irkutsk.net
 doxy-kazan.net
+doxy-krasnodar.com
 doxy-krasnodar.net
 doxy-krd.net
 doxy-moskva.com
@@ -27877,6 +27963,7 @@ drugon1.biz
 drugon24.biz
 drugonrc.com
 drugoon.biz
+drugoros.ru
 drugrc24.biz
 drugs-center.biz
 drugs-forum.com
@@ -27931,7 +28018,6 @@ ds130-penza.ru
 ds14mr.ru
 ds152ufa.ru
 ds173-vrn.ru
-ds173.cc
 ds197.ru
 ds19vrn.ru
 ds21an.ru
@@ -28256,6 +28342,7 @@ dylimu.site
 dymok.net.ua
 dymont-photo.ru
 dymorussia.ru
+dymovoi.com
 dymrez9qe2.org
 dymrh.ru
 dyn-dns.de
@@ -28575,6 +28662,7 @@ easy-profit23.ru
 easy-profit77.ru
 easy-promo.ru
 easy-way-approved.sbs
+easy-way-system.pro
 easybarrier.top
 easybox.ch
 easybusynews.ru
@@ -28610,6 +28698,7 @@ easymillonerthree.cfd
 easymining.io
 easypay.ua
 easypray.info
+easyprofinaday.sbs
 easysalesperson.top
 easyselling.ru
 easyskins.com
@@ -28721,6 +28810,7 @@ ebookpdf.com
 ebooks-free.net
 ebooks.ink
 ebooks.skin
+ebosex.click
 ebosex.com
 ebosex.net
 ebosex.top
@@ -29776,6 +29866,7 @@ elektronnye-sigarety-kupit.ru
 elektronnyi-bolnichnyi.ru
 elektropribor-s.ru
 elektrosamokatspb.ru
+elektrosanteh.ru
 elektroschetchiki.com
 elektroshemas.ru
 elektroshemka.ru
@@ -30132,6 +30223,7 @@ encaustic.gallery
 enchantedecho.in.net
 enchanter-transfer.cyou
 enclosurebiz.click
+enclosurebiz.top
 encode.ru
 encouragementhq.cfd
 encouragementsapp.cfd
@@ -30772,6 +30864,7 @@ esa-congress-sevilla2020.es
 esaos.de
 esapro.quest
 esarapulov.ru
+esaul55.ru
 esbladefury.site
 esblindman.com
 esbusinessactivity.ru
@@ -30783,6 +30876,7 @@ escalibro.com
 escaped-sites.com
 escapelyxi.com
 escapericereviewgenius.click
+escapers.space
 escapetotherockies.com
 escashouteu.xyz
 eschool-ua.com
@@ -30882,7 +30976,6 @@ eskimofest.ru
 eskimozv.ru
 esknet.ru
 eskort-agentstvo-spb.ru
-eskort-tury.ru
 eskort-v-irkutske.ru
 eskort-xxx.net
 eskort.io
@@ -31010,6 +31103,7 @@ eszikeger.com
 et-rus.ru
 eta-mos.ru
 etagirosta.ru
+etal-dunet.info
 etales.ru
 etalon44.ru
 etalonavtoservice.ru
@@ -31179,6 +31273,7 @@ euro-zap-ekaterinburg.ru
 euro2020-ticket.com
 euro2020.spb.ru
 euro2day.bond
+euro2day.cfd
 euro420buds.com
 euroarctic.ru
 euroasia-news.net
@@ -31422,7 +31517,6 @@ evgeniy-volnov.hk
 evgeny-panov.ru
 evgeny-shtefan.com
 evgenyi1208.ru
-evgenymarchenko.ru
 evideo.si
 evidnoe.ru
 evidox.ltd
@@ -31833,6 +31927,7 @@ externalskeptic.pro
 externetplus.ru
 extnsnet.com
 extr.cc
+extra-dance.ru
 extra-sp.ru
 extra4930gift.cfd
 extraaoordinaarydaataa.space
@@ -32138,6 +32233,7 @@ fagalicious.com
 faganlab.com
 fagike.com
 fagot1.tk
+fagv.ru
 fail-zona.ru
 failingunknown.com
 failload.com
@@ -32492,12 +32588,14 @@ farmer-valley.store
 farmflower.ru
 farmfrenzi.ru
 farmfrenzi1.ru
+farmfrenzi1.site
 farming-simulator-2011.ru
 farming-top.ru
 farmiteka.ru
 farmkog.ru
 farmlend.biz
 farmmarine.site
+farmmarine1.ru
 farmrrlendsee.ru
 farmrussia.com
 farmsexfree.com
@@ -32550,6 +32648,7 @@ fashionablelaunch.top
 fashionnhunter.com
 fashionschoolnn.ru
 fashionshemale.com
+fasrt.ru
 fasrwebinfo-past.site
 fasrwebinfo-plus.site
 fasrwebinfo-site.site
@@ -32959,7 +33058,9 @@ felicita-rest.ru
 felicitarecepcoes.com
 felopsae.space
 felya.net
+femdomhd.org
 femdompin.com
+femdomunited.com
 femdomvc.com
 femdomya.cc
 femida-p.ru
@@ -32977,6 +33078,7 @@ fen.wf
 fenazepam.pro
 fenazepam.top
 fencebiz.click
+fencebiz.top
 fenden.com
 fenestra.moscow
 fengda-rus.ru
@@ -33391,6 +33493,7 @@ fin-success.quest
 fin-success.space
 fin-venture.com
 fin.do
+fin24gain.ru
 fin2flex.com
 fin2flex.io
 finabonent.biz
@@ -33461,6 +33564,8 @@ financeexpertsltd.com
 financeexpresslimited.com
 financeforcegroupe.co
 financeforcegroupe.com
+financeforge24.ru
+financefusion.ru
 financegrandtex.net
 financegrant.ru
 financeinsightsrus.site
@@ -33772,6 +33877,8 @@ finvalley.org
 finvami.com
 finvizpro.org
 finvolonter.ru
+finwave.group
+finwave.rs
 finwaymarket.net
 finwiseinsights.com
 finxex.com
@@ -33824,6 +33931,7 @@ fireskins.cc
 firetiger.pw
 firetuts.com
 firewin.pro
+firewin1.pro
 firfighter.com
 firidenamas.xyz
 firingserj.space
@@ -33974,6 +34082,7 @@ fishmouth.in.net
 fishmpegs.com
 fishoop.com
 fishtrolly.com
+fisika-teladan.com
 fisiomedicaloretana.it
 fiskars-market.ru
 fismarton.ru
@@ -34986,8 +35095,13 @@ fortuneclock41.com
 fortuneclock43.com
 fortuneclock55.com
 fortuneclock6.com
+fortuneforge.cfd
+fortuneforge.click
 fortuneforge.quest
+fortuneforge.sbs
+fortuneforge.site
 fortuneforge.store
+fortuneforge.website
 fortuneforge.xyz
 fortunefrenzy.co.uk
 fortunefx.info
@@ -35125,6 +35239,7 @@ forwardtours.ru
 forx.fun
 foryou96.ru
 foryousummit-sea.com
+forza-x25.ru
 fosa.me
 fossilize.in.net
 fost-tor.ru
@@ -35330,6 +35445,7 @@ frau-ulli-fotografie.de
 fraudgage.com
 fraulicht.ru
 fraum.org
+fraumadamx.ru
 frayfx.com
 fraza.com
 frazy.ru
@@ -36536,6 +36652,7 @@ furnitura-yuveliram.ru
 furnituraspb.ru
 furnituratex.ru
 furniture-profi.ru
+furseurope.ru
 furtatrdf.info
 furybluevoiceorient.click
 furytor.ru
@@ -36588,6 +36705,9 @@ future-wex.com
 futurearmy.sk
 futurecenter.in.ua
 futurechatgpt.com
+futurefortune.beauty
+futurefortune.cfd
+futurefortune.click
 futurefx.app
 futurefx.global
 futurefx.ltd
@@ -37049,6 +37169,7 @@ g99p.top
 ga-shoes.ru
 ga.sb
 ga21c.top
+ga3prom.com
 gaaamp.com
 gaadaa.com
 gaamenk.site
@@ -37087,6 +37208,7 @@ gadjievo.ru
 gaedevs.com
 gaf-gep.space
 gaffarov.ru
+gaffilerrx.xyz
 gaffilerx.xyz
 gaflos-het.info
 gafollowers.com
@@ -37195,6 +37317,7 @@ gam3.pro
 gam333.com
 gam4-z3rk4lo.pw
 gam72leo86k.com
+gama-4youu.pw
 gama-amp.ru
 gama-amp1.ru
 gama-amp5.ru
@@ -37305,6 +37428,7 @@ gamblerkey4.com
 gamblerkey4.net
 gambleroad.com
 gambleroff.com
+gambleroom10.ru
 gambleroom4.ru
 gambleroom5.ru
 gambleroom6.ru
@@ -37449,6 +37573,7 @@ gamma07.top
 gamma1.store
 gamma12.store
 gamma14.top
+gamma15.top
 gamma3.store
 gamma6.store
 gamma7.store
@@ -37669,6 +37794,7 @@ gasvmaske.fun
 gasvmaske.space
 gasvoper.com
 gasworuddf.space
+gaszbr.info
 gaszs.ru
 gate-of-olympus.com
 gate01mir.su
@@ -37752,6 +37878,7 @@ gayboymovies.net
 gayboys.ooo
 gayboyshd.com
 gayboystube.com
+gayboystube.top
 gaybubble.com
 gaybuttp.com
 gaycamvideos.net
@@ -37915,6 +38042,7 @@ gayteenmovies.net
 gayteenshd.com
 gayteentwink.com
 gaytema.com
+gaytest.ru
 gaythebest.com
 gaytiger.com
 gaytlt.ru
@@ -38174,6 +38302,7 @@ gazvmaske.moscow
 gazvmaske.ru
 gazwebproject.com
 gazxprom.site
+gazypromi.info
 gazz-inf24.ru
 gazzchat4.info
 gazzinvvy.com
@@ -38214,6 +38343,7 @@ gb24.biz
 gb24.cc
 gb2megion.ru
 gb3nvrsk.ru
+gb5kirov.ru
 gballoons.ru
 gbbot.site
 gbcdata.net
@@ -38670,7 +38800,9 @@ genterbit.com
 gentle-touch-acupuncture.co.uk
 gentlenorth.com
 gentls.ru
+gentodoms.top
 gentooblog.pp.ua
+gentrycrm.com
 gentsdeals.com
 gentv.cc
 genue.ru
@@ -38792,6 +38924,7 @@ gepatit-stops.ru
 gepatit-stops24.ru
 gepatitanet.com
 gepatitanet.site
+gepatitpharmacy.com
 gepatitpro.ru
 gepatits-stops.ru
 gepatitstop.net
@@ -38993,7 +39126,6 @@ getgserwfwerg.pro
 getid.top
 getinfovladkir.com
 getinvst2022.cyou
-getknowledge.in
 getkofe.ru
 getlink.pro
 getlucky.com
@@ -39024,6 +39156,7 @@ getpartnershp2023.click
 getpok.ru
 getppcresults.com
 getprofit.com.ru
+getprofit.org.ru
 getrecognize.cyou
 getresponse.com
 getretool.com
@@ -39035,6 +39168,7 @@ getser.info
 getsongbird.com
 getsongbpm.com
 getstreetblog.com
+getsuyu.bond
 gettarecravatta.com
 gettarevelocite.com
 gettaxi.ru
@@ -39042,6 +39176,7 @@ gettechnologysharefolder.com
 gettecnobeat.com
 getthebest.space
 getthx.com
+getting-richi.com
 gettinshort.org
 gettoprule2024.click
 gettpartner.ru
@@ -39263,6 +39398,7 @@ ggeeniusworrlld.site
 ggennius.site
 ggepcenter.ru
 gggay.com
+gggcodes.com
 ggivnhos.info
 ggjav.com
 gglazboga.ru
@@ -39320,6 +39456,7 @@ ghikos.space
 ghjrsdg.info
 ghkcwsy.info
 ghodan.space
+ghodbunderroad.com
 ghokibos.space
 ghokiros.space
 ghost-connect.xyz
@@ -39342,6 +39479,7 @@ gi15m.top
 giag-sosh5.ru
 giagsosh4.ru
 giahome.ru
+giajero.space
 gialloterzo.com
 gianfrancoguerrieri.com
 giantsextube.com
@@ -39724,6 +39862,7 @@ gkh-vlandeh.ru
 gkhekspert.ru
 gkhkontrolmo.ru
 gkilacl.com
+gkinpp.info
 gkirljz.info
 gkkp-amk.kz
 gklan.org
@@ -40104,6 +40243,7 @@ globus-taxi.ru
 globusmebel26.ru
 globustv.site
 globustv.xyz
+globusved.com
 globusvostok.ru
 globusvrn.ru
 globyz17media.com
@@ -40126,6 +40266,7 @@ glokol.space
 gloksin.ru
 glomerulonefritanet.ru
 glonod.xyz
+glopaw.com
 glorax.org
 gloriamundi.ru
 glory-cazz.com
@@ -40261,6 +40402,7 @@ gmsdelux.info
 gmsdeluxe-1.net
 gmsdeluxe-official.info
 gmsdeluxe-official.net
+gmsdeluxe-official.pro
 gmsdeluxe-qm.ru
 gmsdeluxe.biz
 gmsdeluxe.com
@@ -40456,6 +40598,7 @@ go2kadovar.com
 go2karangetang.com
 go2kilimanjaro.com
 go2kzno.bid
+go2kzno.biz
 go2kzno.cheap
 go2kzno.click
 go2kzno.co
@@ -40925,6 +41068,7 @@ goodseller.su
 goodshiwa.biz
 goodsmail.ru
 goodsnus.com.ua
+goodsnus.in.ua
 goodsongs.com.ua
 goodstoryrc.biz
 goodtake.pro
@@ -41343,6 +41487,7 @@ gpharmamixx.ru
 gpibs.com
 gpills.me
 gpincom.info
+gpinpz.info
 gpinvcht.info
 gpistment.info
 gpk36.ru
@@ -41502,6 +41647,7 @@ grand-choice.net
 grand-choice.pro
 grand-coin.fun
 grand-comedy-afisha.ru
+grand-cosino.ru
 grand-cs.com
 grand-de.store
 grand-fin.com
@@ -41713,6 +41859,7 @@ greatassemblage.top
 greatcomposers.ru
 greatcorp.icu
 greatday.click
+greateasternpensionsga.com
 greatesststtarrttup.site
 greatestbanker.us
 greatfon.com
@@ -41768,7 +41915,6 @@ greenbase.su
 greenbelarus.info
 greenbox-24.ru
 greenbudguru.com
-greencarsbox.com
 greencklor.xyz
 greencoffeecup.ru
 greencoin.life
@@ -42154,6 +42300,7 @@ grunewplt.info
 grunge.pro
 grunwelt.ru
 grupolarrana.com
+gruposaquir.com
 gruppovoe-porevo.top
 grustuz.xyz
 gruupsys.xyz
@@ -42643,6 +42790,7 @@ gzprmconsult.info
 gzprobk.info
 gzpromil.info
 gzpt.com.ua
+gzrvl.info
 gzshrtpl.info
 gztchtbt.info
 gzz-f.com
@@ -42677,6 +42825,7 @@ h2tec.co
 h3vnn.top
 h4wpswkem.com
 h4yd3r.com
+h7kriptobot.ru
 h9tdt.top
 h9tht434f.com
 haautomobiles.fr
@@ -42721,6 +42870,7 @@ hackon.ru
 hackphilly.org
 hackprograms.ru
 hackthecrisisrussia.ru
+hackygeek.com
 had.su
 had.wf
 hadairopink.com
@@ -42830,13 +42980,13 @@ hamon-spain14.ru
 hamon-spain17.ru
 hamon-spain18.ru
 hamon-spain19.ru
+hamon-spain31.ru
 hamondom.ru
 hamondom1.ru
 hamondom7.ru
 hamondom77.ru
 hamondom777.ru
 hamonmarket.ru
-hamonmoscow.ru
 hamov.top
 hamperlyjems.com
 hamrahrus.ru
@@ -44005,7 +44155,6 @@ hgstuff.top
 hgtu.kz
 hgyxp.ru
 hh01.ru
-hh02.ru
 hh03.ru
 hh04.ru
 hh05.ru
@@ -44060,6 +44209,7 @@ hide.me
 hidecam.xyz
 hidefap.com
 hidefromyou.com
+hidegeek.com
 hideme.ru
 hidemyass.com
 hidenseek.org
@@ -44329,9 +44479,7 @@ hiveon.com
 hivh01.ru
 hivh02.ru
 hivh03.ru
-hivh04.ru
 hivh05.ru
-hivhelper10.ru
 hivhelper11.ru
 hivihie3.ru
 hivor.top
@@ -44874,6 +45022,7 @@ hostvit.ru
 hostvsem.ru
 hostynnyidvir.org.ua
 hot-cartoon.com
+hot-champions.com
 hot-charts.xyz
 hot-dosug.org
 hot-fiesta.org
@@ -45118,7 +45267,6 @@ hovalot1.ru
 hovelstudio.ru
 hoverhdr.com
 how-what-advice.com
-how-what-do.com
 how-what-tips.com
 howakin.cfd
 howardandfriends.com
@@ -45766,6 +45914,7 @@ ibizatour.ru
 ibizeappap.xyz
 iblis4d.com
 ibm.com
+ibnaladib.com
 ibogasales.com
 ibomcreatives.com
 ibonus.fun
@@ -45820,6 +45969,7 @@ icegaytube.tv
 icegenetics.com
 icemoscowgroup.ru
 icenetwork.tech
+icenine.ru
 icepalaces.com
 icepotato.com
 icess.net
@@ -45884,7 +46034,6 @@ id964892.info
 idaandrietta.com
 idalprofit.space
 idamaki.ru
-idbo.ru
 iddeaalbrrokeer.biz
 iddeaalbrrokeer.site
 iddeaalwaalll.site
@@ -46897,8 +47046,6 @@ indiafarm.biz
 indiafestival.ru
 indiahelp.ru
 indiamed-2024.site
-indiamed-24.site
-indiamed-365.site
 indiamed-bb.site
 indiamed-best.site
 indiamed-bz.site
@@ -46912,10 +47059,8 @@ indiamed-f5.site
 indiamed-ff.site
 indiamed-fist.site
 indiamed-hh.site
-indiamed-hot.site
 indiamed-kk.site
 indiamed-nn.site
-indiamed-pills.site
 indiamed-plus.site
 indiamed-prime.site
 indiamed-rf.site
@@ -46945,7 +47090,6 @@ indianinternshipnetwork.com
 indianmovie.ru
 indianolympi.com
 indianproducts.it
-indianrailwayemployee.com
 indiansntu.space
 indianvhiy.space
 indianz.com
@@ -47463,6 +47607,7 @@ informsrun.top
 informsservice.top
 informsserving.top
 informsstream.top
+informstore.ru
 informtraffics.xyz
 informwidespread.top
 informwin.top
@@ -47733,6 +47878,7 @@ instagram.com
 instaleads.site
 instaling.site
 instalker.org
+installvpn.ru
 instalmoons.com
 instamar.ru
 instamir.info
@@ -47872,6 +48018,7 @@ interestprime.skin
 interfa.ru
 interface43.ru
 interfacetransit.top
+interfarm-germany-247.com
 interfarm-germany-365.com
 interfarmgermany-247.com
 interfarmgermany-365.com
@@ -48339,6 +48486,7 @@ invccgroup.co.uk
 invdeal.beauty
 invdoinggzs.info
 inveesti7gative.site
+invegaz.info
 inventarium.mobi
 inventklgy.space
 inverbid.co
@@ -48488,6 +48636,7 @@ iown-eu.fun
 iown-eu.site
 iown-eu.uno
 iowncorp.com
+iowpjra.xyz
 ioykas.com
 ip-51-195-166.eu
 ip-51-210-135.eu
@@ -49449,6 +49598,7 @@ jamminjarsdemo.com
 jamminjarsru.ru
 jamon.com.ru
 jamon24ru.com
+jamonmoskow.ru
 jamvideo.ru
 janarmenian.ru
 janelojohnson.com
@@ -49682,6 +49832,7 @@ jelitec.co
 jelsominocafe.ru
 jelykimarket.ru
 jembrana.net
+jemchujina-dent.ru
 jememontre.com
 jenb1jmcak.com
 jener.site
@@ -49932,7 +50083,6 @@ jevons.video
 jewelcity.fr
 jeweller-paradise.ru
 jewellery-market.ru
-jewelrc.biz
 jewish-library.ru
 jewishkhust.com
 jewishnews.com.ua
@@ -50083,6 +50233,7 @@ jmp1.ru
 jmrx.ru
 jnediario.com.br
 jnjaikol.info
+jnks.ru
 jnutss.com
 joannetwombly.com
 job-center.com.ua
@@ -50108,6 +50259,7 @@ jobs24.vip
 jobscom.ru
 jobsukraine.com.ua
 jobtuk.su
+jocotoa.info
 jocularexperiences.fun
 jodesanto.com
 joeblackuk.com
@@ -50830,6 +50982,7 @@ jydyxee.info
 jyhinye.info
 jyjedyi.info
 jyjusuy.info
+jykyviy.info
 jylaluu8.info
 jyrnalist.com.ua
 jyrumya.info
@@ -50855,6 +51008,7 @@ k-igz.top
 k-members.net
 k-mobile.kz
 k-mond.com
+k-notes.ru
 k-parfum.ru
 k-pgz.top
 k-r-a-k-e-n.com
@@ -51510,6 +51664,7 @@ kavkaznews.com
 kavkazplus.com
 kavkazpress.ru
 kavkazr.com
+kavkazuzel.com
 kavodent.ru
 kavpolit.com
 kavun.city
@@ -51942,6 +52097,7 @@ kfk-fanera.ru
 kfkgma.ru
 kfmga.com.ua
 kfond.org
+kfwoo.com
 kg-elektronik.ru
 kg-group.kg
 kg-offer.site
@@ -52065,6 +52221,7 @@ kiberbox.ru
 kibercar-detailing.ru
 kibercon.ru
 kibergrad.fm
+kiberhelp.ru
 kiberkhv.ru
 kibermasker.xyz
 kibertron.cc
@@ -52333,6 +52490,7 @@ kirimtatar-teatri.org
 kiriore.site
 kirov-girls.ru
 kirov-rfei.ru
+kirov-sluts.life
 kirov-sluts.top
 kirov-sofosbuvir.ru
 kirov.life
@@ -53431,6 +53589,7 @@ kovylnoe-rk.ru
 kowela.com
 kowukui7.ru
 koxk.com
+koza-kids.ru
 kozaloi.xyz
 kozanostra.biz
 kozavogorode.ru
@@ -53562,10 +53721,8 @@ kraken-4.com
 kraken-4.org
 kraken-4at.com
 kraken-5at.com
-kraken-6-at.net
 kraken-7-at.com
 kraken-7at.com
-kraken-8-at.net
 kraken-9at.com
 kraken-at.com
 kraken-dark.com
@@ -53719,6 +53876,7 @@ kraken12.ink
 kraken12.net
 kraken12.one
 kraken12.org
+kraken12.su
 kraken1234567890.com
 kraken125.at
 kraken12a.pw
@@ -53730,6 +53888,7 @@ kraken12at.com
 kraken12at.pro
 kraken12at.ru
 kraken12i.at
+kraken12j.at
 kraken12t.com
 kraken12web.com
 kraken13-at.com
@@ -53737,6 +53896,7 @@ kraken13.info
 kraken13.ink
 kraken13.net
 kraken13.org
+kraken13at.at
 kraken13at.com
 kraken13t.com
 kraken14-at.net
@@ -53869,10 +54029,8 @@ kraken6.net
 kraken6.pics
 kraken6at.co
 kraken6at.icu
-kraken6at.info
 kraken6at.org
 kraken6at.su
-kraken6at.website
 kraken6b.com
 kraken6darknet.com
 kraken6e.com
@@ -53888,7 +54046,6 @@ kraken7.cc
 kraken7.net
 kraken7at.fun
 kraken7at.net
-kraken7at.site
 kraken7i.com
 kraken7jm.com
 kraken7n.com
@@ -54093,6 +54250,7 @@ krasnobykow.com
 krasnodar-chek.info
 krasnodar-docs.ru
 krasnodar-doxy.net
+krasnodar-individualki.store
 krasnodar-lovefarma.ru
 krasnodar-medic.ru
 krasnodar-narkolog.ru
@@ -54137,6 +54295,7 @@ krasnodarochek.net
 krasnodarochki.net
 krasnodarok.info
 krasnodarok.net
+krasnodarrsm.com
 krasnodarskogo.ru
 krasnodarsm.com
 krasnodarssm.com
@@ -54180,6 +54339,7 @@ krasotulki.vip
 krasplace.ru
 krasplus.ru
 kraspost.ru
+kraspost.top
 krasproc.ru
 kraspros.ru
 krassilka-batik.ru
@@ -54205,6 +54365,7 @@ krd-doxy.com
 krd-s.com
 krd-sofosbuvir.ru
 krdgp1.ru
+krdou211.ru
 krdsantehnik.ru
 krdschool26.ru
 kreasite.ru
@@ -54310,7 +54471,6 @@ krmap.cc
 krmp-cc.com
 krmp-cc.net
 krmp-in.com
-krmp.app
 krmp.biz
 krmp.bz
 krmp.cf
@@ -54446,6 +54606,7 @@ krymfeya1.top
 krymfeya2.top
 krymfeya3.top
 krymfeya4.top
+krymfeya5.top
 krymr.com
 krymshtora.com.ua
 krymsk-tpp.ru
@@ -54549,6 +54710,7 @@ kuban-parus.ru
 kuban.ru
 kubanalko.center
 kubanalko.day
+kubanalko.li
 kubancsc.ru
 kubanfair.net.ru
 kubanfair.ru
@@ -55296,6 +55458,7 @@ lagutogel.info
 lah.li
 lahair.ru
 lahden-mr.ru
+lahta-apartments.ru
 laidbasbru.space
 laidhub.com
 laimav.ru
@@ -55819,6 +55982,7 @@ led-i76.us
 led-kuban.ru
 led-tiv-36.ru
 led-tsivi.ru
+ledarcba.com
 ledbin.ru
 leddepom.com
 ledenez.com
@@ -56127,6 +56291,7 @@ lelaps.org
 lelectromenager.fr
 leleka.care
 leluteo.info
+lelykiy6.ru
 leman-watches.com
 lemanauto.com.ua
 lematon-tech.org
@@ -56905,6 +57070,7 @@ liceum9-vrn.ru
 licey-metrostroya.spb.ru
 licey-ulgtu.ru
 licey143-omsk.ru
+licey1535.ru
 licey15vrn.ru
 licey22vos.ru
 licey35klgd.ru
@@ -56938,6 +57104,7 @@ lider-kolomna.ru
 lider-lestnits.ru
 lider-shoes.com.ua
 lider-taxi.com
+lider10.ru
 lider24.io
 lider24.org
 liderdpo24.ru
@@ -57397,7 +57564,6 @@ literarynorth.org
 literatyri.net
 litery.me
 litetarif.ru
-litetariff.ru
 litfile.net
 litgroup.info
 litgu.ru
@@ -57594,6 +57760,7 @@ localbitcoins.fi
 localbot.pro
 localbotswana.com
 localhandymanwork.com
+localhelperr.com
 locallbitcoins.org
 localmirror.com
 localpurse.com
@@ -58026,6 +58193,7 @@ lovelilac.ru
 lovely-virgins.com
 lovelyfeedbelt.space
 lovelystreamer.info
+lovemap.pro
 lovemusic.uz
 lovemuson.ru
 lovemuzon.ru
@@ -58111,6 +58279,7 @@ lpteamconsultoria.com
 lr-avto.ru
 lr2019.ru
 lragir.am
+lreqqtb.xyz
 lrestatu.site
 lrt.lt
 ls-24.biz
@@ -58719,7 +58888,6 @@ luvandido.com
 luvbrite.com
 luvleeco.com
 luvozae.info
-luvr.biz
 luvr.so
 luvr24.biz
 luvrmarket.vip
@@ -58811,6 +58979,8 @@ luxtut.ru
 luxuretv.com
 luxury-cars-israel.com
 luxury-prints.ru
+luxury-time-approved.cfd
+luxury-time-approved.click
 luxury-yachts.biz
 luxury6930prize.top
 luxurycarsegypt.com
@@ -59128,6 +59298,7 @@ m88.com
 m88sb.com
 m88th.com
 m98bv61tj1.com
+m9ga.at
 m9snik-csgo.com
 ma-taniere-etoilee.fr
 maaiincooursse.sbs
@@ -59450,6 +59621,7 @@ mail-pari10.com
 mail-pm12.com
 mail-pm18.com
 mail-pm5.com
+mail-vdelux.email
 mail-vdelux.win
 mail.i.ua
 mail2ru.org
@@ -60117,6 +60289,7 @@ marshrutca.ru
 marsl.ink
 marsopolis.biz
 marsopolis.city
+marsopolis.click
 marsopolis.ink
 marsopolis.site
 marsopolis.space
@@ -60317,6 +60490,7 @@ mastersoc.com
 masterstrah.ru
 mastertext.spb.ru
 mastertor.ru
+mastertors.top
 mastervol.ru
 masterwulf.ru
 masterzaim.ru
@@ -60408,6 +60582,7 @@ matrix-world.pro
 matrix.to
 matrix7km.com
 matrixfourvideos.com
+matrixindex.click
 matrixrkld.space
 matrolagu.com
 matronapomogi.ru
@@ -60597,6 +60772,7 @@ maxpread.ru
 maxproj.top
 maxserv.info
 maxsolis.ru
+maxthon2.ru
 maxtomkin.com
 maxtorsee.sbs
 maxusfex.com
@@ -61135,6 +61311,7 @@ meatusdt.net
 meatyhunks.com
 meaws.com
 meb-market.com
+mebank-inves.com
 mebean.ru
 mebeing.center
 mebel-360.ru
@@ -61377,6 +61554,7 @@ medias16fiarys.com
 medias55dreamsyz.com
 mediasalt.ru
 mediasat.info
+mediasaver.ru
 mediasdreamsy.com
 mediasdreamsyz.com
 mediasfiary.com
@@ -62075,6 +62253,7 @@ metallizdelia-konto.ru
 metallocherepitsa.kz
 metallolom-mpa.ru
 metallolomrecycling.ru
+metalloprokatufa.ru
 metalloy.pl
 metallprofi123.ru
 metallprokatking.ru
@@ -62282,6 +62461,7 @@ mgtu-aktau.kz
 mgtube.ru
 mgudt.ru
 mgutu-kld.ru
+mgutunn.ru
 mgwiki.top
 mhab.ru
 mhd-tv.ru
@@ -63101,6 +63281,7 @@ misanthropic.info
 misass.top
 mishasmirnov.ru
 mishchin.com
+mishel-anapa.ru
 mishka24.biz
 mishmar.info
 mishutina.com
@@ -63629,6 +63810,7 @@ modtune.ru
 modtunes.ru
 modul-met.ru
 modularfords.com
+modulebiz.top
 modus-auto-msk.ru
 modus-moda.ru
 modusukltd.com
@@ -64073,6 +64255,7 @@ morgen.cc
 morgen24.cc
 morgenwirdgestern.de
 moriarty-fo.com
+moriarty-m3ga-onion.com
 moriarty-market.com
 moriarty-market.net
 moriarty-marketplace.com
@@ -64164,7 +64347,6 @@ moschat.ru
 moscheles.com
 moscme.ru
 moscow-1win5784.ru
-moscow-ads.ru
 moscow-chek.ru
 moscow-maz.ru
 moscow-medkniga.ru
@@ -64483,6 +64665,7 @@ movie-hd.net
 movie-max.su
 movie-pro.ru
 movie-site.ru
+movie-top.be
 movie-top.ru
 movie-ua.fun
 movie.dp.ua
@@ -65370,6 +65553,7 @@ mts-domofon.ru
 mts-faq.ru
 mts-mil.ru
 mts-msk-c.ru
+mtsecurity.ru
 mtsgsb.com
 mtskuklafest2021.ru
 mtum.tech
@@ -65398,6 +65582,7 @@ mudavoa.info
 mudazef.cfd
 mudres.com
 mudri-pudri.ru
+mudryiecitaty.ru
 muenchen-ru.net
 muerte.biz
 muertis.site
@@ -65599,7 +65784,6 @@ musclemassa.com
 musclepharma.fun
 musclepharma.site
 musclepharma.space
-musclepharma.store
 muscol-orel.ru
 muscomplexpavl.kz
 musebar.ru
@@ -65927,7 +66111,6 @@ muzku.ru
 muzkus.net
 muzl0.ru
 muzla.net
-muzladax.ru
 muzlafa.ru
 muzlaif.ru
 muzlain.ru
@@ -66202,6 +66385,7 @@ my-farm.pro
 my-farm.space
 my-farm.vip
 my-farm.xyz
+my-farms.fun
 my-femida.com
 my-files.ru
 my-fish.com.ua
@@ -66853,7 +67037,6 @@ na-grille.ru
 na-kavkaze.top
 na-kryshe-cafe.ru
 na-kurse.art
-na-kurse.fun
 na-kurse.help
 na-kurse.info
 na-kurse.us
@@ -67018,6 +67201,7 @@ nalivay-app.ru
 nalivay1.ru
 nalivay2.ru
 nalivnaya-vanna.ru
+nalobnik-msk.ru
 nalog-tree.ru
 nalog.io
 nalog7.ru
@@ -67249,7 +67433,6 @@ nataliyasemenkova.ru
 nataliyavasilkova.com
 natalvr.ru
 natalyaderbyshire.com
-natapa.org
 natashaescort.com
 nataviolet.ru
 natcheztracekids.com
@@ -67436,6 +67619,7 @@ nb-kursk.store
 nb-novgorod.com
 nb-novgorod.store
 nb-novosibirsk.com
+nb-novosibirsk.net
 nb-novosibirsk.store
 nb-omsk.net
 nb-orenburg.com
@@ -67878,6 +68062,7 @@ net-compa.ru
 net-forum.ru
 net-gains.ru
 net-kamer.ru
+net-kidal.help
 net-kidal.xyz
 net-nds.ru
 net-tor.org
@@ -68135,6 +68320,7 @@ neway.com.ua
 newbezdepbonus.com
 newbezdepbonus.info
 newbezdeps.com
+newbiewealth.ru
 newblokstroy.ru
 newbond.io
 newbonuses.com
@@ -68312,6 +68498,7 @@ news.i.ua
 news.pn
 news.ua
 news11region.ru
+news2.ru
 news24.in.ua
 news24today.info
 news777.ru
@@ -68801,6 +68988,7 @@ nissanofficialstock.ru
 nissanrb.ru
 nisstinar.xyz
 nistparish.xyz
+nisu-btsk.ru
 nit.ovh
 nitas.ru
 nitefair.com
@@ -68886,6 +69074,7 @@ nlofact.com
 nlovaa.top
 nlozhka.com.ua
 nlpsiholog-akbarov.ru
+nlwfnfb.xyz
 nlyalyago.ru
 nm-school.ru
 nm-school17.ru
@@ -68911,6 +69100,7 @@ nmshed.com
 nmsk-vet.ru
 nmsk.dp.ua
 nmtmerch.ru
+nn-basket.com
 nn-dosug.mobi
 nn-files.su
 nn-mod.top
@@ -69577,6 +69767,7 @@ novostroy-kharkov.com
 novostroy-krasnodara.ru
 novostroy.info
 novostroyka53.ru
+novostroykipiter.ru
 novostroytorg.ru
 novostroyufa.ru
 novostugorodahtan.com
@@ -70053,6 +70244,7 @@ nvutio.space
 nvutis.com
 nvutis.site
 nvutl.la
+nvutl.win
 nvweb.ru
 nw-web.ru
 nw.com.ua
@@ -70068,6 +70260,7 @@ nwotu.ru
 nwpi.ru
 nws-instrument.ru
 nwtorg.ru
+nwuti.blue
 nwuti.cool
 nwuti.la
 nwuti.pink
@@ -70409,6 +70602,7 @@ ochenmnogoknig.com
 ochepyatki.ru
 ocheretynska-gromada.gov.ua
 ochevidcy.com
+ochevidets.ru
 ochinabianca.it
 ochistitelvozduha.ru
 ochki-anapa.ru
@@ -70624,6 +70818,7 @@ officialsgzsru.info
 officialsite-1win.org.ru
 offiibank.site
 offinfs.site
+offonenergy.click
 offonenergy.icu
 offonenergy.space
 offonenergy.xyz
@@ -70822,6 +71017,7 @@ oilmotorstlt.ru
 oilnews.kz
 oilperm.ru
 oilplatform.info
+oiltoog.cfd
 oiltravelenrolldream.click
 oinsulte.ru
 oiratcongress.org
@@ -71340,6 +71536,13 @@ omtig.com
 omu.org.ua
 omv-extras.org
 omving.com
+on-best.beauty
+on-best.boats
+on-best.cfd
+on-best.fun
+on-best.sbs
+on-best.website
+on-best.xyz
 on-cheki-spb.ru
 on-cheki-spb2.ru
 on-cinema.com
@@ -71767,6 +71970,7 @@ ooodu9.ru
 ooofarm.ru
 ooogag.ru
 ooogos.ru
+oooguts.ru
 oooharv.ru
 ooohotey.ru
 ooojku.ru
@@ -71968,6 +72172,7 @@ openverifyfinanc.click
 openwaterfest.ru
 openwaypointup.in.net
 openworld.com.ru
+openworldide.space
 openyourwy2023.cfd
 openyoutube.co
 opeqijored.com
@@ -71997,6 +72202,7 @@ opinion-ru.com
 opinionhelper.com
 opir.org
 opium-spa.ru
+oplanoll.cfd
 oplot-doors.ru
 opmacevent.com
 opmfz.com
@@ -72140,6 +72346,7 @@ oranlad-co.biz
 oraqsmart.com
 oraqsmart.org
 oravikus.xyz
+orb1.info
 orb1.org
 orb1.top
 orb1.vip
@@ -72220,6 +72427,7 @@ orcacenter.ru
 orcadecotanzania.com
 orcbusters.com
 orchidspa.com.au
+ord-02.com
 ord-ua.com
 ord11opt.org
 orda.biz
@@ -72285,6 +72493,7 @@ orensmi.ru
 orenweek.ru
 orer.site
 orevalley.com
+orf-daas.ru
 orfest.ru
 orfeyhi-fi.ru
 orfsin.ru
@@ -72680,6 +72889,7 @@ otsos18.com
 otsos2.com
 otsosa.net
 otsosspb.org
+otstavnov.com
 otstoja.net
 ott-antifriz.com
 ott-iptv-connect.com
@@ -72849,6 +73059,7 @@ ox-9603.info
 oxaig.com
 oxamet.com
 oxbot.org
+oxda.ru
 oxelotl.com
 oxford-intl.com
 oxfordrussiafund.ru
@@ -72918,7 +73129,6 @@ ozempic.su
 ozempic1.ru
 ozempicc.ru
 ozempik.org
-ozempik.su
 ozero-horoshee.ru
 ozero-restoran.ru
 ozerobeloe.net
@@ -74588,9 +74798,11 @@ picsmeplease.com
 picsninja.com
 picspussy.com
 pictoa.com
+picture-russia.ru
 picture24.cc
 picturemarchfoldconcert.click
 pictureshack.ru
+pictus.quest
 picuki.com
 picweek.ru
 pidaras.net
@@ -75266,6 +75478,7 @@ platformgzp.com
 platformhere.info
 platformm.info
 platformm.site
+platformsole.top
 platformts.com
 platfornahere.info
 plati-24.ru
@@ -75611,6 +75824,7 @@ pocket-link31.co
 pocket-link32.co
 pocket-link33.co
 pocket-link34.co
+pocket-link35.co
 pocket-link4.co
 pocket-link5.co
 pocket-link6.co
@@ -76098,6 +76312,7 @@ porjati.xyz
 porjatinet.ru
 porkahd.co
 porkahd.pro
+porkahd.top
 porkyfap.org
 porkytube.com
 pornolab.net
@@ -76781,7 +76996,6 @@ presstigeinnveestmennt.fun
 presstigesaafetty.site
 prestige-coins.com
 prestige-gaming.ru
-prestige-kurs.ru
 prestige-moto.com.ua
 prestige-msk.ru
 prestigebio.ru
@@ -77153,10 +77367,15 @@ pro100vdolg.ru
 pro1school.ru
 pro1win-792.ru
 pro1win.ru
+proachieve.boats
 proachieve.cfd
 proachieve.click
 proachieve.fun
 proachieve.sbs
+proachieve.site
+proachieve.skin
+proachieve.space
+proachieve.website
 proagro.com.ua
 proarmyleague.ru
 proautocar.ru
@@ -77265,6 +77484,7 @@ prodvin-sam.ru
 prody17.com
 proeb.click
 proeb.fans
+proeb.link
 proectx.site
 proekt.media
 proektant.kz
@@ -77289,6 +77509,7 @@ prof-medick.ru
 prof-medik.com
 prof-medikc.ru
 prof-nds.ru
+prof-original.org
 prof-proffi.xyz
 prof-proxima.top
 prof-proximadpo.top
@@ -77719,6 +77940,7 @@ prohaker.ru
 prohooksar.ru
 proincome.org
 proinfobiz.net
+proins.ru
 prointernet.in.ua
 proinvst.guru
 proinvst.today
@@ -77754,6 +77976,7 @@ project6045459.tilda.ws
 projectasthmasisterbonus.click
 projectbaby.ru
 projectbest.click
+projectbuy.top
 projectdeti.ru
 projectessence.net
 projectfenrir.space
@@ -78334,6 +78557,7 @@ prroductivvefoounnd.sbs
 prroductivvetrrusst.site
 prs178.ru
 prs24.ru
+prsiam.net
 prst.name
 prstlkonl.com
 prtc.travel
@@ -78818,6 +79042,7 @@ pusscatgirlzmsk.org
 pussies.me
 pussiex.com
 pussy-cat-hotel.ru
+pussy-kirov.site
 pussy.org
 pussycrave.com
 pussykats-girls.com
@@ -79859,6 +80084,7 @@ ramen-ramen1.ru
 ramen-sp1cy-win.pw
 ramenbe-win.pics
 ramenbeet.com
+ramenbeet.site
 ramenei.info
 ramenki.net
 rami.tv
@@ -80132,10 +80358,12 @@ raznoblog.com
 raznolikost-podezelja.si
 razomforukraine.org
 razor-returns.ru
+razor-shark-official.ru
 razor-shark.info
 razorreturnsru.ru
 razorshark.fun
 razorshark.ru
+razorsharkm.com
 razorsharkru.ru
 razorsharkru1.ru
 razu.la
@@ -80452,7 +80680,6 @@ realtyap.ru
 realtyhousela.com
 realtyrankings.com
 realwarfare.ru
-realwatch.ru
 realwaypro.autos
 realwaypro.bond
 realwaypro.cfd
@@ -80627,6 +80854,7 @@ redkollegia.org
 redlabs.ru
 redmard.com
 redmer.ru
+redmi59.ru
 redmp3.net
 redmp3.su
 rednesseraser.com
@@ -80660,6 +80888,7 @@ reduksin-kz.com
 reduksin.ru
 redundantnews.com
 redut.xyz
+redvpn.ru
 redwap-xxx.com
 redwap.me
 redwap.xyz
@@ -80999,6 +81228,7 @@ remont-na-domu-nn.ru
 remont-noutbukov-gatchina.ru
 remont-okon-setki.ru
 remont-photoapparatov.ru
+remont-spb-bezzabot.ru
 remont-stiralki.com
 remont-tehniki-na-domy.com.ua
 remont-telefonov40.ru
@@ -81901,6 +82131,7 @@ rkaptwwox.top
 rkardersen.xyz
 rkatrium.ru
 rkbulvar.ru
+rkcgkh.ru
 rkgarant.ru
 rkithub.com
 rkliga.vip
@@ -82051,6 +82282,7 @@ roboton-mir.ru
 robotos.space
 robotrack64.ru
 robotrek34.ru
+robots-cash.fun
 robotss.art
 robotss.biz
 robotss.info
@@ -82070,6 +82302,7 @@ robox-system.com
 roboyko.com
 robpay.org
 robrace.com
+robroy.fun
 robtopew.xyz
 robtus.ru
 roccosiffredi.com
@@ -82362,7 +82595,6 @@ rope-jumper.ru
 rophomes.com
 ropnem.com
 roraima.quest
-roridou.com
 roriland.info
 roronia.info
 rorshah-test.ru
@@ -82419,6 +82651,7 @@ rosinka-sokol.ru
 rosinka19.ru
 rosinka46.ru
 roskadastr.net
+roskarta.com
 roskodastr.com
 roskom-kozli.life
 roskom-syki.life
@@ -82546,7 +82779,6 @@ rostov-sad85.ru
 rostov-sakura.ru
 rostov-shebenka.ru
 rostov-svarka.ru
-rostov-tp.ru
 rostov-zaym.ru
 rostovchanok.net
 rostovchanok.pro
@@ -82633,6 +82865,7 @@ roundecho.xyz
 roundenhmh.space
 roundinforms.top
 roundinter.top
+roundlakeorlandos.com
 roundmir.su
 roundsinforms.top
 roundsinter.top
@@ -84247,6 +84480,7 @@ rvcsn.com
 rvcwin.com
 rvk.life
 rvkcc.com.au
+rvlinvgzl.info
 rvorona.ru
 rvp-piter.ru
 rvr-medik.ru
@@ -84256,6 +84490,7 @@ rvwab.com
 rvweb.info
 rvxco-g.org
 rvxgear.com
+rw7e3v5gsumb.com
 rwb-gr.com
 rwfl.ru
 rwgroup.net
@@ -85568,11 +85803,13 @@ school17kovrov.ru
 school1849.ru
 school1884.ru
 school18ryz.ru
+school18ufa.ru
 school1925-rzn.ru
 school1borisovka.ru
 school1naryanmar.ru
 school2-elnya.ru
 school2-megion.ru
+school2-pvl.ru
 school21-smol.ru
 school22-tukai.ru
 school22saratov.ru
@@ -86488,6 +86725,7 @@ senvarkolaks.fun
 senverkelaf.fun
 senxatirlat.com
 senzarumore.ru
+seo-guru.top
 seo-hit.ru
 seo-na-chas.ru
 seo-nsk.ru
@@ -86648,6 +86886,7 @@ servicelaw.ru
 servicemak.ru
 services-ai-tech.sbs
 servicesaitech.click
+servicesat.ru
 serviceseminar.ru
 servicesfarm.com
 servicevzlom.ru
@@ -87389,7 +87628,6 @@ sexoryzan.com
 sexorzn.com
 sexorzn.guru
 sexorzn.io
-sexorzn.net
 sexorzn.red
 sexorzn.xyz
 sexosch.com
@@ -87464,7 +87702,6 @@ sexoxsochi.com
 sexoyakutsk.com
 sexoyakutsk.life
 sexoyakutsk.mobi
-sexoyalta.com
 sexoyalta.love
 sexoyar.com
 sexoyar.mobi
@@ -88065,6 +88302,7 @@ shamanic-extracts.com
 shamanim24.biz
 shamanngarden2p.space
 shamanssgarden.space
+shamanssgarden3.store
 shamanssgarden5.space
 shamanssgarden7.store
 shamanstales.ru
@@ -88730,6 +88968,7 @@ sigaromaniy.ru
 sigarus12.com
 sigarus13.com
 sigarus14.com
+sigarus15.com
 sigarus9.com
 sigarych.ru
 sigi.pro
@@ -88776,6 +89015,7 @@ sikaxoolza.ml
 sikaxoolza.tk
 sikrafashion.com
 sikwap.mobi
+sil.media
 sila-aero.ru
 sila-trening.ru
 sila-zagovora-vv.ru
@@ -88823,6 +89063,7 @@ silverofficial.sbs
 silverofficial.site
 silverspoon-msk.ru
 silverstreamltd.com
+silverstrippers.com
 sim-avto.com
 sim-cart.com
 sim-karting.com
@@ -89485,6 +89726,7 @@ skymine.tech
 skynails-salon.ru
 skynet.sbs
 skynet24.biz
+skynet66.ru
 skynetdv.biz
 skynetzone.biz
 skynetzone.me
@@ -89562,6 +89804,7 @@ slava.ee
 slavaangel.com
 slavaangel.org
 slavaangel.ru
+slavartel.ru
 slaves4u.com
 slavfm.ru
 slavgorod.com.ua
@@ -90125,6 +90368,7 @@ smkdly.com
 smkf2020.ru
 smkstm.ru
 smlif.xyz
+smm-store.su
 smmarrtbaankeer.sbs
 smmarrtsttarrttup.site
 smmarrtwoorlld.site
@@ -90168,6 +90412,7 @@ smolathon.ru
 smolbalkon.ru
 smolderingupo.buzz
 smolderingyu.top
+smoldvorec.ru
 smolensk-cska.ru
 smolensk-girls.com
 smolensk-indi.ru
@@ -90252,6 +90497,7 @@ smotrimtv1.net
 smotrimtv2.net
 smotrimtv3.net
 smotrimv1080.xyz
+smotrinadivane.com
 smotrion.ru
 smotritv.top
 smotrivhd.top
@@ -90495,6 +90741,7 @@ socgrad.appspot.com
 socgradlife.ru
 socgradlifes.ru
 sochi-atlas.ru
+sochi-autolady.ru
 sochi-circus.ru
 sochi-dd.com
 sochi-dosug.com
@@ -90677,6 +90924,7 @@ sofosbuvirium.ru
 sofosbuvirom.ru
 sofosbuvirrussia.com
 sofosbuvirrussia.ru
+sofosbuvirum.ru
 sofostora.ru
 soft-copy.ru
 soft-crimea.ru
@@ -90808,6 +91056,7 @@ solgoodmen.top
 solgroup.net
 solid-trust.cc
 solidair.ru
+solidarityzone.net
 solidbedrock.website
 solidno.com.ua
 solidom.biz
@@ -91360,6 +91609,7 @@ spb-ndfl2.ru
 spb-pogruzchik.ru
 spb-post.com
 spb-prof.ru
+spb-radiolom.ru
 spb-relax.com
 spb-relax.net
 spb-repairs.ru
@@ -92255,6 +92505,7 @@ stazh-trudovoj.ru
 stb.ua
 stbmarkets.com
 stbrown.ru
+stctv.ru
 std-market.com
 std.com.br
 stdexpo.ru
@@ -92383,6 +92634,7 @@ stex-coin.pro
 stex-finance.pro
 stexion-finance.io
 steycoin.com
+steypart.xyz
 stfaev.com
 stforex.com
 stforex.org
@@ -92546,7 +92798,6 @@ stop-igromanii.ru
 stop-kamera.ru
 stop-kidok.xyz
 stop-loi-rilhac.org
-stop-moshennik.xyz
 stop-narko.com
 stop-narkotik.com.ua
 stop-narkotik.org
@@ -92765,6 +93016,7 @@ streetputanyu.store
 streetputanyvip.store
 streets-kharkiv.info
 streettracklife.com
+strekoza93.ru
 strelaua.com
 strelec.ucoz.ru
 strelka-design.ru
@@ -93400,6 +93652,7 @@ surgutmed.ru
 surgutneftegass.ru
 surgutprofschool.ru
 surgutsex.com
+surgutviza.ru
 surma-ua.info
 surmulpkau.space
 surpalto.ru
@@ -93475,7 +93728,6 @@ suuccess.site
 suuccessfuulinnveestmennt.site
 suuccessfuulpllatforrm.biz
 suuccessfuulsaafetty.site
-suvenirchikoff-74.ru
 suveniroff-company.ru
 suvorovskoe73.ru
 suworld.ru
@@ -93685,6 +93937,7 @@ svyatoshinruo.kiev.ua
 svyaz-proect.ru
 svyaznoy-promo.ru
 svydetelstva.net
+sw-honey.ru
 swagger.io
 swagshirts99.com
 swagytoon.com
@@ -93848,6 +94101,7 @@ sxyprn.com
 sxyprn.net
 sxyspy.co
 sxyspy.me
+sxyspy.one
 sxyspy.pro
 sycogol.cfd
 sydneyfx-client.io
@@ -93996,6 +94250,7 @@ syrfest.ru
 syriancivilwararchive.com
 syriasweets.ru
 sys74.ru
+sysadminpro.ru
 sysamee.info
 sysattack.com
 sysdig.com
@@ -94038,6 +94293,7 @@ systemexpert.ink
 systemexpert.monster
 systemexpert.space
 systemexpert.store
+systemexpert.today
 systemexpert.top
 systemexpert.xyz
 systemlocal.space
@@ -94400,6 +94656,7 @@ taksist.space
 takt-lr.ru
 taktake.pro
 takuciy.info
+talantdeti.ru
 talantreklama.ru
 talantysibiri55.ru
 talbotcountyrealestate.com
@@ -94484,6 +94741,7 @@ taocafe.ru
 taomagdv.ru
 taong-island.ru
 tap-me-prize3992.click
+tap5.top
 tapatalk.com
 tapes-retro.ru
 tapis-entree.com
@@ -94609,7 +94867,6 @@ tatudonaweb.com
 tatuumamusic.ru
 tatyana-alpik.ru
 tatyanazykina.ru
-tatyanin-park.ru
 taughtbyapro.com
 taurusiko.kz
 taurusnow.com
@@ -94752,6 +95009,7 @@ td-parket.ru
 td-partner.com
 td-pechnik.ru
 td-spl.ru
+td-utek.ru
 td-vtm.ru
 td9.ru
 tdc-tatar.ru
@@ -95163,6 +95421,7 @@ tehnika-vokrug.ru
 tehnika47.ru
 tehnion-bios.ru
 tehno72.ru
+tehnoaz.ru
 tehnohelp69.ru
 tehnoklimat56.ru
 tehnoplat.com
@@ -95410,6 +95669,7 @@ teplica-one.ru
 teplici-povolzhya12.ru
 teplo-101.ru
 teplo-116.ru
+teplo-36.ru
 teplo-lider.ru
 teplo-ltd.ru
 teplo.social
@@ -95503,6 +95763,7 @@ tert.am
 terxeri.com
 tes-group.xyz
 tes-index.xyz
+tes-mask.cyou
 tes-ok.com
 tes-travel.kz
 tescoma-spb.ru
@@ -95595,6 +95856,7 @@ testresult.org
 testrychlosti.sk
 testutesno.ru
 testyourskill.space
+tesxayt.cyou
 tesxquize.click
 tet-atet.com
 teta.ltd
@@ -95705,6 +95967,7 @@ tfvideo.ru
 tfx-gr.com
 tfx-group.com
 tfx-max.net
+tfyuvva.info
 tg-bot.pro
 tg-kuklin.ru
 tg-maket.com
@@ -95879,6 +96142,7 @@ thebbi.org
 thebeingmethod.com
 thebelebey.ru
 thebell.io
+thebell.media
 thebellmirror.com
 thebellmirror10.site
 thebellmirror11.site
@@ -95932,6 +96196,7 @@ thebooi777.pro
 thebooi777.ru
 thebooi777.site
 thebooi777.tech
+theboois.site
 theboois.tech
 thebooix.pro
 thebook.pub
@@ -96311,7 +96576,6 @@ thetarif.ru
 theteam.cyou
 theteensexy.com
 theteenxxx.com
-theteenxxx.pro
 thethirtysomethingcoach.com
 thetimehotel-24.ru
 thetom-jerry.com
@@ -96425,6 +96689,7 @@ thotvids.com
 thoughtkudos.com
 thoundrf.xyz
 thousd.top
+thr1ving-boost.site
 threadreaderapp.com
 threadrta.com
 threads.net
@@ -96545,6 +96810,7 @@ tigredecristall.one
 tigredecristall.ru
 tih24.biz
 tihiy-don.ru
+tihiy-ugol.ru
 tihonkas.space
 tihonow.ru
 tihvin-girls.ru
@@ -96766,6 +97032,7 @@ tirfopsetent4.buzz
 tirfopsetent5.buzz
 tirkazan.ru
 tirus.ltd
+tischenko-photo.ru
 tisesian.cyou
 tishberg.com
 tishinskiy-bulvar.moscow
@@ -96920,7 +97187,6 @@ tmd-service.ru
 tmdb.org
 tmdvsem.ru
 tme-obrabotka.ru
-tmf.agency
 tmf.cx
 tmg-training.org.ua
 tmgmcorp.net
@@ -97355,6 +97621,7 @@ top-project.fun
 top-project.monster
 top-project.one
 top-project.space
+top-psbank.ru
 top-raid.com
 top-relax.biz
 top-resource.info
@@ -97778,6 +98045,7 @@ tor-list.com
 tor-list.net
 tor-list.pw
 tor-market.cc
+tor-markets.com
 tor-new.xyz
 tor-peta.top
 tor-ru.com
@@ -97787,6 +98055,7 @@ tor-russia.top
 tor-top.xyz
 tor-unblock.org
 tor-v3.site
+tor-wiki.info
 tor-wiki.net
 tor.cx
 tor2kraken.org
@@ -97812,6 +98081,7 @@ torbooks.co
 torbookw.co
 torbot.su
 torbrowser-free.ru
+torbt.cz
 torcase.ru
 torcglobal.com
 torch-prom.com
@@ -97885,6 +98155,7 @@ torplanet.top
 torplanets.com
 torplanets.net
 torplanets.top
+torplanetss.top
 torpoisk.ru
 torporject.org
 torpower.xyz
@@ -97993,6 +98264,7 @@ tourtoisiemusic.com
 toutou.com
 tovar-brand.ru
 tovar-promo.com
+tovar-some.com
 tovar.cc
 tovardlydoma.ru
 tovarfin.com
@@ -98256,6 +98528,7 @@ trannytube.net
 trannytube.tv
 trannyvideosxxx.com
 tranqu11ility.site
+tranquilgroup.autos
 tranquilgroup.cfd
 tranquillo-pizza.jp
 tranquilloinizio.com
@@ -98372,7 +98645,6 @@ transznakomstva.com
 trapcity.ru
 traphub1.net
 traphubya.cc
-traphubya1.cc
 traphubya2.cc
 trashik.news
 trashytalented.com
@@ -98697,6 +98969,7 @@ trix.cool
 trix.dance
 trix.dog
 trix.gg
+trix.gives
 trix.golf
 trix.hair
 trix.homes
@@ -99022,6 +99295,7 @@ trust-region.co
 trust-safety-today.cfd
 trust.zone
 trust9prize.buzz
+trustbuy.click
 trustchems.com
 trustdice.win
 trustdreamhours.xyz
@@ -101163,12 +101437,14 @@ unified.ee
 unifiedai.top
 unifiedbacker.top
 unifiedreaalm.top
+unifinerugs.com
 unifinlimited.com
 uniglobal-assets.com
 uniglobal-group.io
 uniglobal.group
 unihyip.net
 uniki-m.com
+unikteh.ru
 unilinkinc.com
 unintruded.eu
 union-agency.ru
@@ -101272,7 +101548,6 @@ univertv.org
 unix-russia.ru
 unix-sar.ru
 unix.finance
-unixfox.eu
 unixo.ru
 unkn469.com
 unknottedchubby.com
@@ -101558,6 +101833,8 @@ upx.spb.su
 upx.vodka
 upx1.pp.ru
 upx4.pp.ru
+upx932.com
+upx933.com
 upxbest.com
 upxshorts.com
 upyourstocks.net
@@ -101586,6 +101863,7 @@ uralgallery.ru
 uralgermes.ru
 uralgranit-design.ru
 uralic.org
+uralkaif.biz
 uralklad.biz
 uralklad24.biz
 uralmash2033.ru
@@ -102148,6 +102426,7 @@ v-kazani-sofosbuvir.ru
 v-kemerovo-sofosbuvir.ru
 v-mediafx01.site
 v-mediafx02.site
+v-mediafx08.site
 v-mond.com
 v-murmanske-sofosbuvir.ru
 v-novgorod.com
@@ -102388,7 +102667,6 @@ vamblank.ru
 vambonus.com
 vambonus.net
 vambuket71.ru
-vamdomoy.com
 vamicee.info
 vampire-diareis.ru
 vampiry-sredney-polosy.net
@@ -102652,10 +102930,13 @@ vdark.net
 vday.homes
 vdayz.co
 vdayz.com
+vde1ux.org
 vdeleforum.ru
 vdelux-legal.top
 vdelux.com
+vdelux1.com
 vdelux1.org
+vdelux1.pro
 vdelux777best.com
 vdeluxe.net
 vdetskommire.ru
@@ -102664,6 +102945,15 @@ vdgreen.com.ru
 vdi3805.org
 vdj.fm
 vdkur.ru
+vdlx.fun
+vdlx.net
+vdlx.org
+vdlx.pro
+vdlx.site
+vdlx.top
+vdlx7.com
+vdlx7.fun
+vdlx7.top
 vdmk.space
 vdoc.pub
 vdoh.ru
@@ -102675,6 +102965,7 @@ vdomettem.ru
 vdoske.in.ua
 vdostatke.ltd
 vdp72.ru
+vds33.ru
 vdsauto.ru
 vdshostpro.ru
 vdul.me
@@ -102789,6 +103080,7 @@ vegasred.ru
 vegastomacau.com
 vegaswinner.com
 vegazar.es
+vegemaniya.ru
 vegetaetii.space
 vegoltv112.com
 vegoltv377.com
@@ -102902,6 +103194,7 @@ venom-doubler.top
 venom24.vip
 venoms.space
 vensdey.fun
+vent-tnd.ru
 ventania.ru
 ventfasad39.ru
 ventinghome.ru
@@ -102961,6 +103254,7 @@ vernapass.xyz
 vernemip.ru
 verni-svoe.org
 vernigora.com
+vernisage-gallery.ru
 vernofx.ru
 vernons.com
 verny10let.ru
@@ -102977,6 +103271,7 @@ vershinin.tk
 versia.com.ua
 versii.com
 versionderivespeedjar.click
+versogrods.top
 verstka.media
 verstutfh.space
 versustop.info
@@ -103083,6 +103378,7 @@ veteslprocas9.buzz
 vetka-museum.ru
 vetklinika-kuzminki.ru
 veto-scraps-639302.appspot.com
+vetom-nsk.ru
 vetrenyj.ru
 vetrogenerator.com.ua
 vetthai.com
@@ -103164,6 +103460,7 @@ vhsbox.lol
 vhsbox.mom
 vhsbox.org
 vhsbox.pics
+vhsbox.pro
 vhsbox.ru
 vhudu.ru
 vhutemaskids.ru
@@ -103307,6 +103604,7 @@ victory-levs.xyz
 victory-levus.xyz
 victory-levz.xyz
 victory-lewus.xyz
+victorybollywoods.top
 victoryckk.ru
 victorycoin.xyz
 victorycoins.xyz
@@ -103315,6 +103613,7 @@ victoryeld.xyz
 victoryeldi.xyz
 victoryeldis.xyz
 victoryeldoo.xyz
+victoryeldos.com
 victoryeldow.xyz
 victoryeldoz.xyz
 victoryeldozz.xyz
@@ -103328,6 +103627,7 @@ victorylevis.xyz
 victorylevz.xyz
 victorylewus.xyz
 victoryofukraine.com.ua
+victoryokna.ru
 vid-clips.com
 vid-kor.ru
 vid31.ru
@@ -103590,6 +103890,7 @@ viks.com
 viks.tv
 viktor-tsoy.com
 viktordolinin.com.ua
+viktorgorbachev.ru
 vikup-auto43.ru
 vikup-auto98.ru
 vikup-avto-samara.info
@@ -103670,6 +103971,7 @@ vintage-bakery.space
 vintagecuties.com
 vintagenavigator.com
 vintic.name
+vinyl-sale.ru
 vinyl-skupka.ru
 vinyl-x.com
 violentjom.buzz
@@ -103901,6 +104203,7 @@ vipsintimdosug.pro
 vipsites.site
 vipsk.top
 vipskupka.ru
+vipsoldat.ru
 vipspel.com
 vipstakes.com
 vipstand.se
@@ -103933,6 +104236,7 @@ vipxintimsdosug.pro
 vipxnxx.com
 vipzal.com.ua
 viqewyi.info
+vir-academy.ru
 vira.kz
 viralday.ru
 viralhub.video
@@ -104040,6 +104344,7 @@ visualiweb.com
 visualxqeq.space
 vit-al.ru
 vita-fitness.ru
+vita-schola.ru
 vitadeu.com
 vitadeu.ru
 vitaepauci.com
@@ -104073,6 +104378,7 @@ vituss-britva.com
 vituss.net
 vituss2.ru
 vituss3.ru
+vituss6.ru
 vitylsleep.com
 viva-consult.ru
 viva101.ru
@@ -105073,6 +105379,7 @@ vonymay.info
 voodoodreams.com
 voodooo-lab.ru
 voolkan.net
+voolkan.top
 voolkan.website
 voolya.ru
 voorraadfoto.nl
@@ -105208,6 +105515,7 @@ vovan-bonus.ru
 vovan-official.ru
 vovan-win.ru
 vovan.pro
+vovancas1no.ru
 vovikan.ru
 vovr.ru
 vovr.su
@@ -105396,6 +105704,7 @@ vs-tv.ga
 vs-tv.gq
 vs-tv.ml
 vs-tv.tk
+vs1ys.ru
 vs2tor.cc
 vsamt.ws
 vsatinfo.ru
@@ -105558,7 +105867,6 @@ vsezapekanki.ru
 vshansone.ru
 vshubah.ru
 vshuf.org
-vshuv-otzyvy.xyz
 vsillc.ru
 vsim.ua
 vsimakov.com
@@ -105757,6 +106065,7 @@ vul-winnerz.com
 vul-winnerz.net
 vul24.biz
 vul24.org
+vul777.ru
 vul8-ctavca.com
 vuldeluxe.com
 vuldeluxe.net
@@ -105881,6 +106190,7 @@ vybor2021.ru
 vybortv.xyz
 vybory-2024.com
 vybory-prezidenta2024.ru
+vyborzayma.ru
 vyce-c.co
 vycecorp.com
 vydelis.ru
@@ -106424,6 +106734,7 @@ wealth-unity.quest
 wealth-unity.space
 wealth-waves.org
 wealth-wise.one
+wealth-wise24.ru
 wealth.industries
 wealthaxy.com
 wealthbuisn.sbs
@@ -106787,6 +107098,7 @@ welvura5.win
 welvura6.win
 welvura8.win
 welvura9.win
+welwin.ru
 welwlink.cc
 welwura.link
 wemosyz.xyz
@@ -106949,6 +107261,7 @@ whatsuplebanon.com
 whatthechange.ru
 whb-usdt.vip
 whcr24.biz
+whd24.com
 wheatallgreatcharge.click
 wheather.com
 wheel.cash
@@ -107091,6 +107404,7 @@ wifecrazy.com
 wifflegif.com
 wifi-ac.com
 wifi-ax.com
+wifi19.ru
 wificard.ru
 wifiresim.ru
 wifull.com
@@ -107111,6 +107425,7 @@ wikiart.org
 wikibaza.com
 wikibit.me
 wikicn.top
+wikiedu.ru
 wikienx.ru
 wikifx.com
 wikigamki.ru
@@ -107145,6 +107460,7 @@ wild-k.org
 wild-kitties.com
 wild-scatter.com
 wild.io
+wildbandito.ru
 wildblaster.com
 wildblasteraffiliates.com
 wildcard-leva.top
@@ -107221,6 +107537,7 @@ win-gamble.fun
 win-gamble.plus
 win-gamble.site
 win-gamble.win
+win-gambler.site
 win-in-win.ru
 win-info.ru
 win-it.ru
@@ -107241,6 +107558,7 @@ win-russia27.top
 win-russia28.top
 win-smm.ru
 win-up.fun
+win-up2.fun
 win-v24.com
 win-v24cas.com
 win-wylk.com
@@ -107260,6 +107578,7 @@ win29.com
 win2day.at
 win2fun.com
 win41uck.com
+win54big.com
 win5x.com
 win6prizes.buzz
 win7-dzou.com
@@ -107431,6 +107750,7 @@ winning-coin.xyz
 winning-eldi.xyz
 winning-eldis.xyz
 winning-eldoo.xyz
+winning-eldos.com
 winning-eldos.xyz
 winning-eldow.xyz
 winning-eldozz.xyz
@@ -107511,6 +107831,7 @@ winwinbox.ru
 winwingamble.fun
 winwinpartners.ru
 winwishmediasz.com
+winwithjoy.ru
 winx-fan.ru
 winz.io
 winz1.io
@@ -107615,6 +107936,7 @@ wlkdollars.com
 wlkdreamx.com
 wlkjoyx.com
 wlkn.net.ru
+wlkn.org.ru
 wlkn.pp.ru
 wlkn.top
 wlkpayzgamble.com
@@ -108068,6 +108390,7 @@ wounderf.fun
 wounderf.quest
 wounderf.site
 wounderf.store
+wounderf.xyz
 wovo4ka.ru
 wow-arena-sochi.com
 wow-cool.ru
@@ -108087,6 +108410,7 @@ wowgirls.com
 wowgirls.tv
 wowgirls.xxx
 wowgirlsblog.com
+wowkitti.cc
 wowkitty.cc
 wowmaga.ru
 wowmagic.ru
@@ -108185,6 +108509,7 @@ wtfextracts.com
 wtfgdz.com
 wtfskins.com
 wtfskins.net
+wth24.cc
 wtinwbff9.xyz
 wtmrecords.com
 wto-legalservices.ru
@@ -108622,6 +108947,7 @@ xcreate.ru
 xcsvc.com
 xcyltd.cc
 xcyltd.com
+xdafgsw.xyz
 xdatepro.com
 xdirect.pro
 xdirect.ua
@@ -108951,7 +109277,6 @@ xn----7sbbswbbzxpn.com
 xn----7sbbuhumovqg.xn--p1ai
 xn----7sbbuyjb7ads.xn--p1ai
 xn----7sbc3alpc6a.xn--p1ai
-xn----7sbc3bflebh2a.xn--p1ai
 xn----7sbc4admdqp2f.xn--p1ai
 xn----7sbceoaoz8aodt.xn--p1ai
 xn----7sbeb1em0c.xn--p1ai
@@ -111049,6 +111374,7 @@ xvideos3.com
 xvideos4.com
 xvideos47.com
 xvideos5.com
+xvideos5.tv
 xvideos51.com
 xvideos53.com
 xvideos61.com
@@ -111510,6 +111836,7 @@ yayebus.me
 yayest.group
 yazykaznanie.ru
 yb5461.xyz
+yborka-ok.ru
 ybro.cc
 ybro24.biz
 ybtechnical.com
@@ -112170,6 +112497,7 @@ zagonka77.one
 zagonkas.sbs
 zagonkatv.one
 zagonko.org
+zagorod50.ru
 zagorodom31.ru
 zagranitsa.com
 zagrankarta.ru
@@ -112261,6 +112589,7 @@ zakupiguns.net
 zakupka.market
 zakupki-de.ru
 zakura.ru
+zakura.su
 zakyatrt.ru
 zakyiv.com
 zalaboi.info
@@ -112294,6 +112623,7 @@ zambidoty.com
 zamena-stekol.com
 zamenalcd.ru
 zamenikolodki.ru
+zameny.cc
 zametim.com
 zamimennez-street.com
 zaminferrous.com
@@ -112605,6 +112935,7 @@ zemli-for-sale.ru
 zemlinski.ru
 zemlya-talantov.org
 zemlya23.ru
+zen1th-boost.site
 zenaqey.info
 zenbook-10years.ru
 zenburst.in.net
@@ -112977,6 +113308,7 @@ zimovka.travel
 zimp3.net
 zina38.biz
 zincme.ru
+zinger-zinger.ru
 zingerbingo.com
 zino777rus.ru
 zinvit.com
@@ -113276,6 +113608,7 @@ zooma16.fun
 zooma23.pw
 zooma24.pw
 zooma25.pw
+zooma28.pw
 zooma3.pw
 zooma6.pw
 zooma6.ru
