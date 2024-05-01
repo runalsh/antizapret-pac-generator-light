@@ -5,3 +5,4 @@ awk '! a[$0]++' ./config/{include-hosts-custom.txt,exclude-hosts-custom.txt,incl
 # sort -o ./config/include-hosts-custom.txt ./config/include-hosts-custom.txt
 sed -i '/^$/d' ./config/{include-hosts-custom.txt,exclude-hosts-custom.txt}
 sed -i '/#/d' ./config/{include-hosts-custom.txt,exclude-hosts-custom.txt}
+sed -i '/^.ua/d' ./config/{include-hosts-custom.txt,exclude-hosts-custom.txt}
