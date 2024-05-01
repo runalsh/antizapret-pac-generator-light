@@ -1,6 +1,7 @@
 yogadns.com
 tailscale.com
 dl.tailscale.com
+apt.releases.hashicorp.com
 pkgs.tailscale.com
 hashicorp.com
 vagrantcloud.com

@@ -1,0 +1,10 @@
+apt.releases.hashicorp.com
+releases.hashicorp.com
+hashicorp.com
+vagrantcloud.com
+vagrantup.com
+registry.terraform.io
+terraform.io
+tailscale.com
+pkgs.tailscale.com
+dl.tailscale.com

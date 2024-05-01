@@ -1,4 +1,0 @@
-#pkgs.tailscale.com
-199.38.181.239
-#tailscale.com
-76.76.21.21

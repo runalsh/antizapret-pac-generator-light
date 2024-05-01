@@ -15,6 +15,7 @@ rm -rf ./temp/*
 ./antifilter-ce.sh # https://community.antifilter.download/list/domains.lst
 ./openai.sh # https://raw.githubusercontent.com/antonme/ipnames/master/dns-openai.txt
 ./svintuss.sh # https://raw.githubusercontent.com/svintuss/unblock/main/unblock.txt
+./resolvecustom.sh
 ./preparelst.sh
 ./update.sh
 ./parse.sh
