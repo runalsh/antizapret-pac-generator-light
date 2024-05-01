@@ -43,6 +43,10 @@ jobs:
           mv antizapret-pac-generator-light-original/result/proxy-host-ssl-original-myproxy.pac ./result
           mv antizapret-pac-generator-light-original/result/proxy-host-nossl-original-myproxy.pac ./result
 
+      - name : clean /result
+        run: |
+          rm -rf ./result/{*.txt,*.conf}
+
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(TZ=Europe/Moscow date +'%Y-%m-%dT%H:%M:%S')"
