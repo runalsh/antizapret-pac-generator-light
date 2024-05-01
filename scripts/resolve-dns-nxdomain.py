@@ -51,8 +51,10 @@ class AZResolver(dns.asyncresolver.Resolver):
                     dns.resolver.YXDOMAIN, dns.resolver.NoNameservers):
                 return domain
             except dns.resolver.NoAnswer:
-                # Do not thread domain as broken if the answer is empty
-                pass
+                # Do not thread domain as broken if the answer is empty,
+                # but do if it's cloudfront subdomain
+                if domain.endswith('.cloudfront.net'):
+                    return domain
 
 def tasksProvider(domainiter, resolver):
     for domain in domainiter:
