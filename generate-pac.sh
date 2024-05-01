@@ -24,6 +24,8 @@ python3 scripts/lzp.py temp/domains-oneline.txt temp/domains-oneline-data.txt te
 # Collapse IP list
 scripts/collapse_blockedbyip_noid2971.py
 
+cat ./config/include-ips-custom.txt >> result/iplist_blockedbyip_noid2971_collapsed.txt
+
 echo "// This variable now excludes IP addresses blocked by 33a-5536/2019 (since 17.05.2020) and 33-4/2018 (since 14.12.2020)" >> "$PACFILE"
 sort -Vu temp/include-ips.txt result/iplist_blockedbyip_noid2971_collapsed.txt | \
     grep -v -F -x -f temp/exclude-ips.txt | awk -f scripts/generate-pac-ipaddrs.awk >> "$PACFILE"
