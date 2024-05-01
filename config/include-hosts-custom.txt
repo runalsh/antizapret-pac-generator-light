@@ -1,4 +1,3 @@
-.ua
 yogadns.com
 tailscale.com
 dl.tailscale.com
@@ -46,8 +45,6 @@ rtfm.co.ua
 udemy.com
 jsfiddle.net
 openai.com
-darkmoney
-wwh
 kinozal.tv
 filmix.co
 fanserials.tv
@@ -55,8 +52,6 @@ dublik.at
 ordilo.org
 6tor.net
 megatfile.cc
-hdrezka
-rezka
 zfilm-hd.org
 dailymotion.com
 heavy.com
@@ -72,16 +67,12 @@ anonfiles.com
 phreaker.pro
 zoop.su
 telegra.ph
-center-club
-bdf
 ownedcore.com
 hdrezka-ag.com
 darkos.me
-dublikat
 dumskaya.net
 bullshit.agency
 upload.ee
-wwh-club
 navigator.pw
 skladchik.com
 arhivach.net
@@ -95,7 +86,6 @@ miped.ru
 navalny.com
 raidforums.com
 bhf.im
-slivup
 slivup.in
 rutor.wtf
 dark-time.com
@@ -178,7 +168,6 @@ coursera.org
 surfshark.com
 golosinfo.org
 president.gov.ua
-archive
 librus.ec
 khtulhu.org.ua
 chatgpt.com
@@ -208,4 +197,3 @@ spotify.com
 ionos.com
 nano-editor.org
 amazon.com
-
