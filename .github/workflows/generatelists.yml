@@ -55,6 +55,7 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: './result/*'
+          # add '["foo", "bar"]'
           author_name: GitHub Action
           author_email: githubaction@githubaction.com
           message: 'Update PAC and CONF files ${{ steps.date.outputs.date }}'
