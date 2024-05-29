@@ -198,3 +198,8 @@ spotify.com
 ionos.com
 nano-editor.org
 amazon.com
+hub.docker.com
+docker.com
+docker.io
+registry-1.docker.io
+elb-default.us-east-1.aws.dckr.io
