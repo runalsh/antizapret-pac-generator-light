@@ -45,7 +45,7 @@ jobs:
 
       - name : clean /result
         run: |
-          rm -rf ./result/{*.txt,*.conf}
+          rm -rf ./result/{*.txt} #,*.conf
 
       - name: Get current date
         id: date
